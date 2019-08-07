@@ -24,7 +24,11 @@ github_username:  jydarack
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: minima
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 93d48a8e0091559265d6585335ed012035d54a83
 plugins:
   - jekyll-feed
 

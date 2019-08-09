@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python testing with pytest (Bryan Okken)"
-categories: testing python reading
+categories: reading
 ---
 
 Going through the book I bought after listening to the [Python Bytes podcast](https://pythonbytes.fm/). Perfect as it was topic I *had* to deal with in my current project at work.
@@ -55,4 +55,3 @@ How much I needed that !
 Different infrastructures, what is need and where and so on. Perfect.
 
 Following reading the chapter, I was looking for a way to automate the structure and settings. On Twitter, [Rodrigo Fuentealba](https://twitter.com/datasciencegems) mentionned [PyScaffold](https://pypi.org/project/PyScaffold/) and that was perfect. I have been playing with it locally and have just started a small development at work based on it. It covers all I wanted by I still need to dive into the settings and the various arguments to really understand what is possible. I currently understand 30-40% of what it does and that far too little for me to be satisfied.
-

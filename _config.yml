@@ -24,8 +24,7 @@ github_username:  jydarack
 
 # Build settings
 markdown: kramdown
-# theme: minima
-theme: jekyll-theme-merlot
+theme: minima
 plugins:
   - jekyll-feed
 

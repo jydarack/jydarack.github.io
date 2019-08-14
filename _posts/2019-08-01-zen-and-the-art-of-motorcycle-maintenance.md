@@ -18,6 +18,8 @@ will be completed later, need to reread and take notes on these parts
 
 And then, suddenly, the Buddha enters the discussion. I get it's part of the zen thing but so far, the book read more like european philosophy.
 
+## Part 2
+
 ### Chapter 8
 
 OK, background story, with a nice dose of ye olde electroshock therapy.
@@ -39,3 +41,21 @@ Key message: pure scientific mind is foly.
 Some chapters flow, the narration is good. Others (like chapter 10), flow like a bag of brick to your head. Chapter 11 reads much better than chapter 10. Chapter 10 felt as if it had been edited, or written too many times. Trying to find the right word or the right citation instead of presenting its point. It feels artificial.
 
 OK, chapter 11 starts feeling the same way. Using the main character meditation on the road to conjure a memory of his past self discoursing about oriental philosophy. Like using SSL while on a remote desktop. This back and forth between current reality, remote desktop and SSL makes no sense to me. More than that, the absence of transition between each part feels like taking the point of a mad man.
+
+Discussion on Kant's Critique of Pure Reason. As an introduction to further discussions.
+
+### Chapter 12
+
+Phaedrus background story. Maybe?
+
+### Chapter 13
+
+Discussion on the separation between concept and object. Maybe as a follow-up of the discussion on Kant (sense data vs *a-priori*). This part makes sense to me.
+
+Plus:
+
+> You are never dedicated to something you have complete confidence in. No one is fanatically shouting that the sun is going to rise tomorrow. They *know* it's going torise tomorrow. When people are fanatically dedicated to political or religious faiths or any other kinds of dogomas or goals, it's always because these dogmas or goals are in doubt.
+
+### Chapter 14
+
+Actually readable. More than that, enjoyable chapter.

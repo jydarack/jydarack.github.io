@@ -134,4 +134,8 @@ Make clear prototyping is just investigation and not a brick of the finalised co
 
 ### Domain Language
 
-To be read
+A word on the citation opening the chapter:
+
+> The limit of language are the limits of one's world. (Ludzig Wittgenstein)
+
+As a French guy living in Japan and communicating quite a lot in English, I love this quote.

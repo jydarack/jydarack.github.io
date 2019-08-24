@@ -59,3 +59,9 @@ Plus:
 ### Chapter 14
 
 Actually readable. More than that, enjoyable chapter.
+
+Key message, the narrator wants to combine classic and romantic points of views. By looking at base philosophy as it is how the rest was built ?
+
+Also, being into what you do is a proof you are a classical?
+
+> If you really don't care [if the machine is wrong], you aren't going to *know* it's wrong. The thought will never occur to you. The act of pronouncing it wrong's a form of caring.

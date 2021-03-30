@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Controverses mode (collectif)"
+title:  "Controverses mode d'emploi (collectif)"
 book_author: "Collectif"
 categories: finished
 ---

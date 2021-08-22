@@ -37,3 +37,6 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # Security issue patch
 # See https://github.com/advisories/GHSA-mqm2-cgpr-p4m6
 gem "kramdown"
+
+
+gem "webrick"

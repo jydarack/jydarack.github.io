@@ -11,7 +11,7 @@ This book focus on Channel Sakura and the different methods and campaigns they r
 
 What I found particularly interesting is how the described methods are similar to the dediabolisation campaign and the use of the net and especially Youtube by the French far right. Only 10 years before, which is not what I was expecting at all. The fact that the far-right was better at using the net to broadcast their message than other groups is also something that has then expanded in other countries and has only started to face backlash since 2015-16
 
-> The fact that NHK only aired A First-Rate Asian Power on two occasions would typically mean that protesters and people filing complaints about the documentary would have needed to watch it on their television sets in order to formulate an opinion on its contents. 64 However, in the era of affordable broadband internet, anyone with internet access could go on YouTube at any time and view videos from Channel Sakura that provided detailed criticisms of the documentary.
+> The fact that NHK only aired A First-Rate Asian Power on two occasions would typically mean that protesters and people filing complaints about the documentary would have needed to watch it on their television sets in order to formulate an opinion on its contents. However, in the era of affordable broadband internet, anyone with internet access could go on YouTube at any time and view videos from Channel Sakura that provided detailed criticisms of the documentary.
 
 Having spent some time in China, I was really interested in the link between Japan's far right and the Taiwan pro-independance groups
 

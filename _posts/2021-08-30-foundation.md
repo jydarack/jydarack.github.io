@@ -19,6 +19,8 @@ How the different characters (Salvor Hardin and Hober Mallow) deal with the thre
 
 > Violence is the last refuge of the incompetent
 
+Which is one of Asimov's quote I use the most, just after *"Against stupidity, the gods themselves contend in vain".*
+
 But more than that, it is a critic of how inflexible one can become when entrenched in one's processes (the Encyclopedia, the Science as religion) or how tied to a contractor one can become without becoming aware.
 
 The whole discourse on Science itself both in the last days of the empire as described in the quote below and once an established religion is extremely interesing.

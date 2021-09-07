@@ -7,6 +7,14 @@ categories: finished
 
 *Foundation* is one of the book series which had a profound influence on me when I first read it 20 years ago. But, in contrast with [Neal Stephenson]({% post_url 2019-09-15-fall %})'s books, I have only read them once. But with the upcoming Foundation serie coming to Apple TV+, I thought it was a good opportunity to read them again, in English this time. In publication order.
 
+- Prelude to Foundation
+- Forward the Foundation
+- [Foundation]({% post_url 2021-08-30-foundation %})
+- [Foundation and Empire]({% post_url 2021-09-06-foundation-and-empire %})
+- Second Foundation
+- Foundation's edge
+- Foundation and Earth
+
 The first time I read the books, I was wondering why I was still in eduction. I had a hard time at school, especialy in sciences, partially due to a lack of motivation and partially thanks to the lack of pedagogy or outright incorrect teaching my physics and maths teacher (a *hobby* with my friends at the time was to correct the maths teacher's correction inbetween classes...). And Foundation was what motivated me to continue.
 
 What motivated me to continue was as much the concept of psychohistory but all the discourse around science and its place in society and the characters (Eto Demerzel forever). Something that still means a lot to me today.

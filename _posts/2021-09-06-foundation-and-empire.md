@@ -11,7 +11,7 @@ Im a currently re-reading the Foundation series. The notes on the other books ar
 - Forward the Foundation
 - [Foundation]({% post_url 2021-08-30-foundation %})
 - [Foundation and Empire]({% post_url 2021-09-06-foundation-and-empire %})
-- Second Foundation
+- [Second Foundation]({% post_url 2021-09-09-second-foundation %})
 - Foundation's edge
 - Foundation and Earth
 

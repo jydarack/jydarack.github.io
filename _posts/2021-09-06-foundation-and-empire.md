@@ -13,7 +13,7 @@ I am currently re-reading the Foundation series. The notes on the other books ar
 - [Foundation and Empire]({% post_url 2021-09-06-foundation-and-empire %})
 - [Second Foundation]({% post_url 2021-09-09-second-foundation %})
 - [Foundation's edge]{% post_url 2021-09-13-foundation-edge %}
-- Foundation and Earth
+- [Foundation and Earth]({% post_url 2021-09-28-foundation-earth %})
 
 
 This is clearly the book I remember the most. The Mule (and the plot twist in Second Foundation) is clearly the event I remember the most vividly when thinking about the whole series.

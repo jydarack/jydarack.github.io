@@ -13,7 +13,7 @@ I am currently re-reading the Foundation series. The notes on the other books ar
 - [Foundation and Empire]({% post_url 2021-09-06-foundation-and-empire %})
 - [Second Foundation]({% post_url 2021-09-09-second-foundation %})
 - [Foundation's edge]{% post_url 2021-09-13-foundation-edge %}
-- Foundation and Earth
+- [Foundation and Earth]({% post_url 2021-09-28-foundation-earth %})
 
 So, Foundation's edge is the first book in which Asimov comes back to the Foundation Universe after a 30-year hiatus. The difference in writing style with the original trilogy is striking. But the main thing I appreciate is that the book finally gives room for the characters and the intrigue to grow. Foundation's edge is much 30% longer than all previous books and you definitely feel it.
 

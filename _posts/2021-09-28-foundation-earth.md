@@ -26,3 +26,5 @@ Fallom, as a character and in their relation with the other members of the crew 
 The conclusion falls a bit short and wraps the Foundation cycle a bit dryly, trying a bit too much to circle back with the Robot series.
 
 That said, time to go to the final days of the Empire. With Demerzel. Always more Demerzel.
+
+Though, I am starting to want to read something else. Especially since I have been buying more books since I decided reading the whole cycle again.

@@ -25,6 +25,8 @@ I kinda remember it to be the first book of the cycle I read and what an impact 
 
 Sure, it is better written that [Foundation]({% post_url 2021-08-30-foundation %}), tries to put more meat on its characters, but that's all the good I can say. It really reads like a Foundation version of Star Wars Episode II. Asimov tries too hard to connect his two main cycles (Robots and Foundation) and is not particularly good at it.
 
+And doing so, it adds inconsistencies to the previous books.
+
 One book too much.
 
 As I write this post, I am already pretty far into Forward the Foundation and it is noticeably better but that will be a story for another day.

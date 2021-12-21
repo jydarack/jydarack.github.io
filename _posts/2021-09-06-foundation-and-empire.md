@@ -7,7 +7,7 @@ categories: finished
 
 I am currently re-reading the Foundation series. The notes on the other books are found below, the links will be updated as I go through the books:
 
-- Prelude to Foundation
+- [Prelude to Foundation]({% post_url 2021-11-13-prelude-foundation %})
 - Forward the Foundation
 - [Foundation]({% post_url 2021-08-30-foundation %})
 - [Foundation and Empire]({% post_url 2021-09-06-foundation-and-empire %})

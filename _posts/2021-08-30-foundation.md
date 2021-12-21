@@ -7,7 +7,7 @@ categories: finished
 
 *Foundation* is one of the book series which had a profound influence on me when I first read it 20 years ago. But, in contrast with [Neal Stephenson]({% post_url 2019-09-15-fall %})'s books, I have only read them once. But with the upcoming Foundation serie coming to Apple TV+, I thought it was a good opportunity to read them again, in English this time. In publication order.
 
-- Prelude to Foundation
+- [Prelude to Foundation]({% post_url 2021-11-13-prelude-foundation %})
 - Forward the Foundation
 - [Foundation]({% post_url 2021-08-30-foundation %})
 - [Foundation and Empire]({% post_url 2021-09-06-foundation-and-empire %})

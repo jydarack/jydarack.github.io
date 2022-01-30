@@ -15,7 +15,7 @@ I am currently re-reading the Foundation series. The notes on the other books ar
 - [Foundation's edge]({% post_url 2021-09-13-foundation-edge %})
 - [Foundation and Earth]({% post_url 2021-09-28-foundation-earth %})
 
-Finally went through the final book of the cycle. That little project of mine took me much more time than I thought it would and thought I took a [few]({% post_url 2021-10-13-art-of-statistics.md %}) [tangents]({% 2021-10-24-tokyo-city-end-world.md %}) along the way (and much more books I started but haven't finished or won't be featured here), it is nice to finally close it now.
+Finally went through the final book of the cycle. That little project of mine took me much more time than I thought it would and thought I took a [few]({% post_url 2021-10-13-art-of-statistics %}) [tangents]({% post_url 2021-10-24-tokyo-city-end-world %}) along the way (and much more books I started but haven't finished or won't be featured here), it is nice to finally close it now.
 
 So, what about this final book of the Foundation serie? It starts pretty much where Prelude to Foundation ended but is, to me, much, much better. Overall, it is less heavy handed in its project to link the Robots and Foundation cycles as well as in the way it ties the later elements and characters of the original trilogy. It also comes back to the original format of the books, with 4 parts corresponding to related stories but with variable interval of times between them. You could say that would lead to less room for the characters to flourish and get some meat around their characters and back stories but most of them are actually shared across several of the stories so I didn't find it an issue.
 

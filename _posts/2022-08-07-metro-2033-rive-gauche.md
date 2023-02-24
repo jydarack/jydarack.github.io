@@ -8,7 +8,7 @@ categories: finished
 Les differents tomes de Metro Paris 2033
 - [Rive gauche]({% post_url 2022-08-07-metro-2033-rive-gauche %})
 - [Rive droite]({% post_url 2022-10-23-metro-paris-2033-rive-droite %})
-- Cité
+- [Cité]({% post_url 2023-01-15-metro-paris-2033-cite %})
 
 C'est une [récente interview de Pierre Bordage](https://podcast.ausha.co/c-est-plus-que-de-la-sf/metro-paris-2033-pierre-bordage-122) pour le podcast *C'est plus que de la SF* qui m'a ramené 20 ans en arriere et m'a motivé me replonger dans de la SF francaise. J'avais lu le Cycle de Wang du même auteur il y a une éternité mais j'avoue ne pas en avoir gardé de souvenir.
 

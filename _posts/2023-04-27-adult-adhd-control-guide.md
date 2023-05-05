@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  大人のADHDコントロールガイド (福西)"
+title:  "大人のADHDコントロールガイド (福西)"
 book_author: "福西"
 categories: finished
 ---

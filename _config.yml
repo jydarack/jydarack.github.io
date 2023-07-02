@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Random notes on books
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://1f4da.achikochi.tokyo/" # the base hostname & protocol for your site, e.g. http://example.com
+author: jydarack
 twitter_username: jydarack
 # github_username: jydarack
 google_analytics: UA-91612612-6
@@ -42,3 +43,7 @@ permalink: /:year/:title
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+mastodon:
+  username: japonmeneatout
+  instance: piaille.fr

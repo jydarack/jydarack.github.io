@@ -31,6 +31,9 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - KI (Christian J. Meier)
 - Babel (R.F. Kuang)
 - Lovecraft country (Matt Ruff)
+- A song for a new day (Sarah Pinsker)
+- Shogun (James Clavell)
+- By light alone (Adam Roberts)
 
 ## Tech and tech-criticism
 
@@ -49,6 +52,12 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Saving Time (Jenny Odell)
 - Everything and less (Mark McGurl)
 - How infrastructure works (Deb Chachra)
+- The code (Margaret O'Mara)
+- Dark skies (Daniel Deudney)
+- Machine who think (Pamela McCorduck)
+- Ghost Work (Mary L. Gray, Siddarth Suri)
+- Hackers (Steven Levy)
+- 
 
 ## Politics
 
@@ -96,6 +105,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Mirror of Modernity (Stephen Vlastos)
 - Dream super-express (Jessamyn R. Abel)
 - The dawn of everything (David Graeber, David Wengrow)
+- Bullshit Jobs (David Graeber)
 
 ## Others
 
@@ -105,3 +115,4 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - 私の行き方 (小林一三)
 - 人工知能の現代史
 - 予測不能の時代 (矢野知男)
+- Doughnuts economics (Kate Raworth)

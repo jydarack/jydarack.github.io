@@ -38,7 +38,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Red plenty (Francis Spufford)
 - En attendant les robots (Antonio A. Casilli)
 - A city is not a computer (Shannon Mattern)
-- - Code + Clay... Data + Dirt (Shannon Mattern)
+- Code + Clay... Data + Dirt (Shannon Mattern)
 - Beyond Data (Elizabeth M. Renieris)
 - Revolutionary Mathematics (Justin Joque)
 - Breaking things at work (Gavin Mueller)

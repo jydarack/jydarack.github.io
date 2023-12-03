@@ -30,7 +30,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Der Würfel (Bijan Moini)
 - KI (Christian J. Meier)
 - Babel (R.F. Kuang)
-- Lovecraft country (Matt Ruff)
 - A song for a new day (Sarah Pinsker)
 - Shogun (James Clavell)
 - By light alone (Adam Roberts)
@@ -57,7 +56,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Machine who think (Pamela McCorduck)
 - Ghost Work (Mary L. Gray, Siddarth Suri)
 - Hackers (Steven Levy)
-- 
+- Contre-histoire d'internet (Félix Tréguer)
 
 ## Politics
 
@@ -106,6 +105,9 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Dream super-express (Jessamyn R. Abel)
 - The dawn of everything (David Graeber, David Wengrow)
 - Bullshit Jobs (David Graeber)
+- La naissance de l'état social japonais (Bernard Thomann)
+- Nouvelle histoire du Japon (PF Souyri)
+- Les yeux de la ville (Naoko Tokumitsu-Partiot)
 
 ## Others
 
@@ -116,3 +118,4 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - 人工知能の現代史
 - 予測不能の時代 (矢野知男)
 - Doughnuts economics (Kate Raworth)
+- Une langue venue d'ailleurs (Akira Mizubayashi)

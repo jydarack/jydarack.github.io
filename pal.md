@@ -18,7 +18,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - The city we became (N. K. Jemsin)
 - The Peripheral (William Gibson)
 - The future of another timeline (Annalee Newitz)
-- Terraformers (Annalee Newitz)
 - The left hand of darkness (Ursula K. Le Guin)
 - Fantomes du Japon (Lafcadio Hearn)
 - Radiance (Catherynne M. Valente)
@@ -33,6 +32,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - A song for a new day (Sarah Pinsker)
 - Shogun (James Clavell)
 - By light alone (Adam Roberts)
+- The digital aesthete (Collectif)
 
 ## Tech and tech-criticism
 
@@ -102,6 +102,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Imagined Communities (Benedict Anderson)
 - The invention of Tradition (Hobsbawn and Ranger)
 - Mirror of Modernity (Stephen Vlastos)
+- Archaism and actuality (Harry Harootunian)
 - Dream super-express (Jessamyn R. Abel)
 - The dawn of everything (David Graeber, David Wengrow)
 - Bullshit Jobs (David Graeber)

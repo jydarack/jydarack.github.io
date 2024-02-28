@@ -28,11 +28,12 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - 京都sf
 - Der Würfel (Bijan Moini)
 - KI (Christian J. Meier)
-- Babel (R.F. Kuang)
 - A song for a new day (Sarah Pinsker)
 - Shogun (James Clavell)
 - By light alone (Adam Roberts)
 - The digital aesthete (Collectif)
+- Thief of time (Terry Pratcett)
+- The digital Aesthete (collectif / receuil)
 
 ## Tech and tech-criticism
 
@@ -57,6 +58,9 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Ghost Work (Mary L. Gray, Siddarth Suri)
 - Hackers (Steven Levy)
 - Contre-histoire d'internet (Félix Tréguer)
+- Wrong way (Joanne McNeil)
+- Techno-feudalism (Yanis Varoufakis)
+- Your face belong to us (Kashmir Hill)
 
 ## Politics
 
@@ -73,6 +77,10 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - 平成、令和学生たちの社会運動 (小林哲夫)
 - SEALDs 
 - 戦う姫、働く少女 (河野真太郎)
+- La convivialité (Ivan Illitch)
+- Qu'est-ce que la propriété (Proudhon)
+- La science moderne et l'anarchie (Pierre Kropotkine)
+- Filterworld (Kyle Chayka)
 
 ## Ecology
 
@@ -90,6 +98,8 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Arbitrary lines (M. Nolan Gray)
 - 凡人のための地域再生入門 (木下斉)
 - まちづくりの統計学 
+- La métropole parisienne, une anarchie organisée (Francesca Artioli, Patrick Le Galès)
+- The revolutionary city (Mark R Beissinger)
 
 ## Sociology, anthropology
 
@@ -109,6 +119,8 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - La naissance de l'état social japonais (Bernard Thomann)
 - Nouvelle histoire du Japon (PF Souyri)
 - Les yeux de la ville (Naoko Tokumitsu-Partiot)
+- Red planets, Marxism and Science-Fiction (Mark Bould, China Miéville)
+- La domination touristique
 
 ## Others
 
@@ -120,3 +132,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - 予測不能の時代 (矢野知男)
 - Doughnuts economics (Kate Raworth)
 - Une langue venue d'ailleurs (Akira Mizubayashi)
+- アイヌもやもや (北原モコットゥナシ, 田房永子)
+- アニメーターの仕事がわかる本 (西位輝実)
+- Le fantome de l'opéra (Gaston Leroux)
+- R.U.R. and the vision of artificial life (Karel Čapek + essays edited by Jitka Čejková)

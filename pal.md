@@ -134,5 +134,4 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Une langue venue d'ailleurs (Akira Mizubayashi)
 - アイヌもやもや (北原モコットゥナシ, 田房永子)
 - アニメーターの仕事がわかる本 (西位輝実)
-- Le fantome de l'opéra (Gaston Leroux)
 - R.U.R. and the vision of artificial life (Karel Čapek + essays edited by Jitka Čejková)

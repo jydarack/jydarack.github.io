@@ -61,6 +61,13 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Wrong way (Joanne McNeil)
 - Techno-feudalism (Yanis Varoufakis)
 - Your face belong to us (Kashmir Hill)
+- Géopolitique du numérique (Ophélie Coelho)
+- No crypto (Natastasia Hadjadji)
+- Une histoire de la conquête spatiale (Irénée Régnauld, Arnaud Saint-Martin)
+- Techno-critiques (François Jarrige)
+- Broadband (Clarie L. Evans)
+- Algorithms of resistance (Tiziano Bonin, Emiliano Treré)
+- Foreverism (Grafton Tanner)
 
 ## Politics
 
@@ -73,6 +80,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Puissances du salariat (Bernard Friot)
 - Imagined futures (Jens Beckert)
 - Tracing Japanese leftist polical activism (1957-2017) (Kevin Coogan, Claudia Derichs)
+- The revolution will not be televised (Noriko Manabe)
 - Pourquoi sommes nous capitalistes (malgré nous) (Denis Colombi)
 - 平成、令和学生たちの社会運動 (小林哲夫)
 - SEALDs 
@@ -87,6 +95,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Half-Earth Socialism (Troy Vettese, Drew Pendergrass)
 - Marx in the anthropocene (Kohei Saito)
 - 人新世の「資本論」 (斎藤幸平)
+- Slow down (Kohei Saito)
 
 ## Urbanism
 
@@ -100,6 +109,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - まちづくりの統計学 
 - La métropole parisienne, une anarchie organisée (Francesca Artioli, Patrick Le Galès)
 - The revolutionary city (Mark R Beissinger)
+- L'empire urbain de la finance (Antoine Guironnet, Ludovic Halbert)
 
 ## Sociology, anthropology
 
@@ -121,6 +131,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Les yeux de la ville (Naoko Tokumitsu-Partiot)
 - Red planets, Marxism and Science-Fiction (Mark Bould, China Miéville)
 - La domination touristique
+- Controversy mapping (Tommaso Venturini, Anders Kristian Munk)
 
 ## Others
 
@@ -135,3 +146,4 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - アイヌもやもや (北原モコットゥナシ, 田房永子)
 - アニメーターの仕事がわかる本 (西位輝実)
 - R.U.R. and the vision of artificial life (Karel Čapek + essays edited by Jitka Čejková)
+- Oser, Résister (Jean Malaurie)

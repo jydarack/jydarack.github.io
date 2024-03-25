@@ -1,0 +1,43 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
+            RSS
+          </a>
+        </p>
+        <ul class="contact-list">
+      {%- if site.author %}
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+      {%- endif %}
+      <li>
+        <a rel="me" href="https://piaille.fr/@japonmeneatout" target="_blank" title="Mastodon">
+          Mastodon
+        </a>
+      </li>
+     </ul>
+      </div>
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div>
+      <div class="social-links">
+        <ul class="social-media-list"><li>
+        
+        </ul>
+      </div>
+    </div>
+
+   
+
+  </div>
+
+</footer>

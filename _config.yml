@@ -26,9 +26,10 @@ twitter_username: jydarack
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Changing standard permalink structure
 permalink: /:year/:title
@@ -47,3 +48,5 @@ permalink: /:year/:title
 mastodon:
   username: japonmeneatout
   instance: piaille.fr
+
+startyear: 2019

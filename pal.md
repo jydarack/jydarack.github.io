@@ -82,7 +82,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - 平成、令和学生たちの社会運動 (小林哲夫)
 - SEALDs 
 - 戦う姫、働く少女 (河野真太郎)
-- La convivialité (Ivan Illitch)
 - Qu'est-ce que la propriété (Proudhon)
 - La science moderne et l'anarchie (Pierre Kropotkine)
 - Filterworld (Kyle Chayka)

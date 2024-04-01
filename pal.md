@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pile à lire
+title: TBR
 permalink: /tsundoku/
 ---
 
@@ -66,11 +66,9 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Techno-critiques (François Jarrige)
 - Broadband (Clarie L. Evans)
 - Algorithms of resistance (Tiziano Bonin, Emiliano Treré)
-- Foreverism (Grafton Tanner)
 
 ## Politics
 
-- If we burn (Vincent Bevins)
 - Doppelganger (Naomi Klein)
 - How to argue with a racist (Adam Rutherford)
 - Control (Adam Rutherford)

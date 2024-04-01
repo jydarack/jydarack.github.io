@@ -32,7 +32,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Shogun (James Clavell)
 - By light alone (Adam Roberts)
 - The digital aesthete (Collectif)
-- Thief of time (Terry Pratcett)
+- Thief of time (Terry Pratchett)
 - The digital Aesthete (collectif / receuil)
 
 ## Tech and tech-criticism
@@ -64,7 +64,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - No crypto (Natastasia Hadjadji)
 - Une histoire de la conquête spatiale (Irénée Régnauld, Arnaud Saint-Martin)
 - Techno-critiques (François Jarrige)
-- Broadband (Clarie L. Evans)
+- Broadband (Claire L. Evans)
 - Algorithms of resistance (Tiziano Bonin, Emiliano Treré)
 
 ## Politics
@@ -76,7 +76,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Vivre san (Frédéric Lordon)
 - Puissances du salariat (Bernard Friot)
 - Imagined futures (Jens Beckert)
-- Tracing Japanese leftist polical activism (1957-2017) (Kevin Coogan, Claudia Derichs)
+- Tracing Japanese leftist political activism (1957-2017) (Kevin Coogan, Claudia Derichs)
 - The revolution will not be televised (Noriko Manabe)
 - Pourquoi sommes nous capitalistes (malgré nous) (Denis Colombi)
 - 平成、令和学生たちの社会運動 (小林哲夫)

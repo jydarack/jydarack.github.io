@@ -4,6 +4,7 @@ title:  "Technofeudalism (Yanis Varoufakis)"
 book_author: "Yanis Varoufakis"
 categories: finished
 num_pages: 214
+review_lang: en
 ---
 
 Picked up while preparing a(nother) book haul from Blackwells (serioulsy, my [TBR](http://1f4da.achikochi.tokyo/tsundoku/) is reaching absurd levels). The topic was exactly my jam so...

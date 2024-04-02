@@ -3,6 +3,7 @@ layout: post
 title:  "A Memory Called Empire (Arkady Martine)"
 book_author: "Arkady Martine"
 categories: finished
+review_lang: en
 ---
 
 I was looking for some evasion from work and that mean Science fiction for me. But As I have not been following up what was released in the last few years, except for Neal Stephenson's book, I was absolutely unaware of what to read (and was not in a mood for reading classics as I am doing for movies).

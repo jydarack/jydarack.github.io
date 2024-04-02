@@ -3,6 +3,7 @@ layout: post
 title:  "How to blow up a pipeline (Andreas Malm)"
 book_author: "Andreas Malm"
 categories: finished
+review_lang: en
 ---
 
 One of the books that I saw being recommended time and time again. And since I was making an order at Verso books and wanted some ecology-related books, that was an evident choice.

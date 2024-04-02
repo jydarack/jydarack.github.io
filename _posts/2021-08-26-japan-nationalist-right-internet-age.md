@@ -3,6 +3,7 @@ layout: post
 title:  "Japan's nationalist right in the internet age (Jeffrey J. Hall)"
 book_author: "Jeffrey J. Hall"
 categories: finished
+review_lang: en
 ---
 
 Though I had heard a lot about net uyo, I was curious to know more about them and their method.

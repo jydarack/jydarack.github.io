@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "AI x Decreasing Population (Keisuke Nakahara)"
-book_author: "Keisuke Nakahar"
+book_author: "Keisuke Nakahara"
 categories: finished
+review_lang: en
 ---
 
-I recently bought a few Japanese books on the intersection of AI and social issues. AI×人口減少 by Keisuke Nakhara is one of those. Least to say, I have mixed feelings. Spoiler: definitely not worth the 1500¥ + tax I put into it.
+I recently bought a few Japanese books on the intersection of AI and social issues. AI×人口減少 by Keisuke Nakahara is one of those. Least to say, I have mixed feelings. Spoiler: definitely not worth the 1500¥ + tax I put into it.
 
 ## Decreasing population
 

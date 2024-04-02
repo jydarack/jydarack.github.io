@@ -4,6 +4,7 @@ title:  "The Internet Con (Cory Doctorow)"
 book_author: "Cory Doctorow"
 categories: finished
 num_pages: 174
+review_lang: en
 ---
 
 Having read a few Doctorow books lately (namely [here]({% post_url 2023-06-06-chokepoint-capitalism %}) and [here]({% post_url 2023-05-24-red-team-blues %})), I was curious of his new book.

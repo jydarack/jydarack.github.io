@@ -4,6 +4,7 @@ title:  "Les pouvoirs de l'enchantement (Anne Besson)"
 book_author: "Anne Besson"
 categories: finished
 num_pages: 181
+review_lang: fr
 ---
 
 Pris suite à une discussion avec Lex Tutor et pensant avoir une analyse centrée sur le genre de littérature que je lis le plus, la SF(FF). Dans mon idée, c’était un pendant littérature SFFF des livres, recherchés et thèses sur l’utilisation des memes issus d’internet ou des jeux vidéo dans la sphère publique et notamment les manifestations de ces dernières années, en France avec les Gilets Jaunes ou ailleurs.

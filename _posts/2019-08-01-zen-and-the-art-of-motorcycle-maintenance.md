@@ -3,6 +3,7 @@ layout: post
 title:  "Zen and the art of motorcycle maintenance (Robert Pirsig)"
 book_author: "Robert Pirsig"
 categories: reading
+review_lang: en
 ---
 
 After reading a lot about this book for... pretty much forever, I finally decided to buy it as a *light* read. to balance the current technical books I'm into.

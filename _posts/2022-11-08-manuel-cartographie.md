@@ -3,6 +3,7 @@ layout: post
 title:  "Manuel de cartographie (Nicolas Lambert, Christine Zanin)"
 book_author: "Nicolas Lambert, Christine Zanin"
 categories: finished
+review_lang: fr
 ---
 
 Mon travail ayant une enorme composante spatiale, je suis amené a préparer pas mal de cartes. Donc quand on m'a recommandé ce livre, surtout écrit par un compte Twitter que je suivais déja, je me devais de le lire.

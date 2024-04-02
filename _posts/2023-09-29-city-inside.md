@@ -4,6 +4,7 @@ title:  "The city inside (Samit Basu)"
 book_author: "Samit Basu"
 categories: finished
 num_pages: 260
+review_lang: en
 ---
 
 This book has been featured on a few « best recent sci-fi books » lists in the past few months and I wanted to give it a try. What would there be to lose in that case (except having one more book on my TBR which is every day more likely to topple and bury me every time there’s an earthquake)

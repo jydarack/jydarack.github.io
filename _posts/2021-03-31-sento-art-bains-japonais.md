@@ -3,6 +3,7 @@ layout: post
 title:  "Sento, l'art des bains japonais (Stéphanie Crohin Kishigami)"
 book_author: "Stéphanie Crohin Kishigami"
 categories: finished
+review_lang: fr
 ---
 
 J'ai donc enfin acheté et lu le dernier livre de Stephanie Crohin Kishigami, publié cette fois en français chez Sully. J'avais deja eu l'occasion de [présenter son premier livre](https://achikochi.tokyo/fr/blog/lectures/stephanie-crohin-art-sento-vendredi-lecture/) sur les sento lors de sa sortie en 2017.

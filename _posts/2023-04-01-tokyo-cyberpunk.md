@@ -3,6 +3,7 @@ layout: post
 title:  "Tokyo Cyberpunk (Steven Brown)"
 book_author: "Steven Brown"
 categories: finished
+review_lang: en
 ---
 
 After reading about [cyberpunk]({% post_url 2022-06-24-cyberpunk-not-dead %}) in general, someone recommanded this book focusing on, as the subtitle precises, posthumanism in Japanese visual culture to me.

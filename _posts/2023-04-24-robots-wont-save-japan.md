@@ -3,6 +3,7 @@ layout: post
 title:  "Robots won't save Japan (James Wright)"
 book_author: "James Wright"
 categories: finished
+review_lang: en
 ---
 
 Picked up this book following the [Tech Won't Save Us interview](https://podcasts.apple.com/jp/podcast/robots-arent-the-solution-to-elder-care-w-james-wright/id1507621076?i=1000604448771&l=en) of its author. Given how it perfectly fits my [current deep dive into the Japan tech industry]({% post_url 2023-01-07-immersive-enclosure %}), I couldn't let it pass.

@@ -4,6 +4,7 @@ title:  "Le propriétaire absent (Takiji Kobayashi)"
 book_author: "Takiji Kobayashi"
 categories: finished
 num_pages: 202
+review_lang: fr
 ---
 
 Sur une recommandation de [Sophie Buhnik](https://scholar.google.com/citations?user=z-uDhK8AAAAJ&hl=fr).

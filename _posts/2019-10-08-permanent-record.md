@@ -3,6 +3,7 @@ layout: post
 title:  "Permanent Record (Edward Snowden)"
 book_author: "Edward Snowden"
 categories: finished
+review_lang: en
 ---
 
 For some reasons, I am currently enjoying quite a revival of my teenage years, diving into IT, security, the hacking manifesto and so on. And also re-reading (or rather piling up) books I read at that time. And yes, a deep dive into an Asimov Omnibus WILL happen.

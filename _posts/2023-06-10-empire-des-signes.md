@@ -4,6 +4,7 @@ title:  "L'empire des signes (Roland Barthes)"
 book_author: "Roland Barthes"
 categories: finished
 num_pages: 120
+review_lang: fr
 ---
 
 Quelle aventure que ce livre...

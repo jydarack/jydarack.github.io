@@ -4,6 +4,7 @@ title:  "Japon, la face cachée de la perfection (Karyn Nishimura-Poupée)"
 book_author: "Karyn Nishimura-Poupée"
 categories: finished
 num_pages: 340
+review_lang: fr
 ---
 
 Il y a une éternité de ça, j'avais acheté la première édition du livre Les Japonais de la meme autrice et c'était sans doute mon premier livre sérieux sur le Japon et certainement un de mes premiers livres sur le Japon tout court.

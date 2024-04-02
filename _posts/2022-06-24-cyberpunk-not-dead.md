@@ -3,6 +3,7 @@ layout: post
 title:  "Cyberpunk is not dead (Yannick Rumpala)"
 book_author: "Yannick Rumpala"
 categories: finished
+review_lang: en
 ---
 
 Un de ses livres pris un peu sur un coup de tete, un livre sérieux sur la Science-Fiction, pourquoi pas après tout.

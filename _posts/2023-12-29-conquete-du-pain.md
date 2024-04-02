@@ -4,6 +4,7 @@ title:  "La conquête du pain (Pierre Kropotkine)"
 book_author: "Pierre Kropotkine"
 categories: finished
 num_pages: 262
+review_lang: fr
 ---
 
 C'est clairement un des livres qui traînaient sur ma wishlist depuis bien trop longtemps. Je l'avais ajouté pour pouvoir faire mon éducation mais l'avait laissé croupir dans son coin. Et puis, il est revenu plusieurs fois dans la discussion a quelques jours d'intervalles (notamment via la [chaîne secondaire](https://www.youtube.com/watch?v=713aFrcI5B8) de [The Canvas](https://www.youtube.com/@TheCanvasArtHistory)) et c’était le signal pour que je passe le pas.

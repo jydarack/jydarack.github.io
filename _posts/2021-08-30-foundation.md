@@ -3,6 +3,7 @@ layout: post
 title:  "Foundation (Isaac Asimov)"
 book_author: "Isaac Asimov"
 categories: finished
+review_lang: en
 ---
 
 *Foundation* is one of the book series which had a profound influence on me when I first read it 20 years ago. But, in contrast with [Neal Stephenson]({% post_url 2019-09-15-fall %})'s books, I have only read them once. But with the upcoming Foundation serie coming to Apple TV+, I thought it was a good opportunity to read them again, in English this time. In publication order.

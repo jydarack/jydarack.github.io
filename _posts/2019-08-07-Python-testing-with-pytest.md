@@ -3,6 +3,7 @@ layout: post
 title:  "Python testing with pytest (Bryan Okken)"
 book_author: "Bryan Okken"
 categories: reading
+review_lang: en
 ---
 
 Going through the book I bought after listening to the [Python Bytes podcast](https://pythonbytes.fm/). Perfect as it was topic I *had* to deal with in my current project at work.

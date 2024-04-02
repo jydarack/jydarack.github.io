@@ -4,6 +4,7 @@ title:  "Les briseurs de machines (N. Chevassus-au-Louis)"
 book_author: "Nicolas Chevassus-au-Louis"
 categories: finished
 num_pages: 264
+review_lang: fr
 ---
 
 Alors que j'attends depuis plusieurs mois la publication de Blood in the Machine de Brian Merchant, je suis tombé sur ce livre via une des [vidéos du collectif Bolchegeek](https://youtu.be/1bppWMNlyd4) pour l'Humanité et je me suis dit que ce serait une bonne introduction.

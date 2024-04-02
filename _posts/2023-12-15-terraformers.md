@@ -4,6 +4,7 @@ title:  "The Terraformers (Annalee Newitz)"
 book_author: "Annalee Newitz"
 categories: finished
 num_pages: 335
+review_lang: en
 ---
 
 OK, so truth is, I picked up Terraformers at the same time I picked The future of another timeline (from the same author) and started reading this book just after reading [This is how you lose the time war]({% post_url 2023-05-27-lose-time-war%}). I was really interested in continuing reading time travel stories, liked what I read but at the same time, that was not exactly what I wanted to read at the time. It just didn't feel right. So I put it aside, read a whole bunch of other things, then picked up The Terraformers from my pile on a whim.

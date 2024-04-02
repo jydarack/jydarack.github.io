@@ -3,6 +3,7 @@ layout: post
 title:  "The politics of Bitcoin - Software as right-wing extremism (David Golumbia)"
 book_author: "David Golumbia"
 categories: finished
+review_lang: en
 ---
 
 This book came up in one of the recent episodes of [Tech Won't Save Us](https://podcasts.apple.com/us/podcast/bitcoin-is-a-right-wing-technology-w-david-golumbia/id1507621076?i=1000527479326) and I couldn't let it pass after seeing someone I knew going deeper in the far right fringes of the net while at the same time being more and more proselyte regarding his bitcoin investments and trading activities.

@@ -4,6 +4,7 @@ title:  "Le bateau-usine (Takiji Kobayashi)"
 book_author: "Takiji Kobayashi"
 categories: finished
 num_pages: 161
+review_lang: fr
 ---
 
 J'ai tellement aimé "[Le Propriétaire absent]({% post_url 2023-10-01-proprietaire-absent %})" que j'ai immédiatement acheté Le Bateau Usine, qui est le livre le plus connu de Takiji Kobayashi.

@@ -3,6 +3,7 @@ layout: post
 title:  "Stop thinking like a freelancer (Liam Veitch)"
 book_author: "Liam Veitch"
 categories: Finished
+review_lang: en
 ---
 
 *Stop Thinking like a freelancer* is one of those (many) books I have had on the (Kindle) pile for way too long. I picked it up following either a podcast or a blog post on Asian Efficiency in 2014 or 2015 while doing my MBA and read a few page now and then for the last 5 years.

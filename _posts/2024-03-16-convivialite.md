@@ -4,6 +4,7 @@ title:  "La convivialité (Ivan Illich)"
 book_author: "Ivan Illich"
 categories: finished
 num_pages: 158
+review_lang: fr
 ---
 
 Comme pour mes lectures de Kropotkine ([ici]({% post_url 2023-12-29-conquete-du-pain %}) et [là]({% post_url 2023-12-26-morale-anarchiste %})), c'est un livre que je voulais lire pour continuer mon éducation militante, sur la techno-critique plutôt que l'anarchisme ici.

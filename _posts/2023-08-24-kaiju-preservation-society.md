@@ -4,6 +4,7 @@ title:  "The Kaiju Preservation Society (John Scalzi)"
 book_author: "John Scalzi"
 categories: finished
 num_pages: 258
+review_lang: en
 ---
 
 Picked this book after coming across the title quite a few time and not giving it much thoughts because that’s not the kind of books I usually read or look for. And I was wrong. This book was great and one of the most fun read of this year so far.

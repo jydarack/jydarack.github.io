@@ -4,6 +4,7 @@ title:  "Ministry for the Future (Kim Stanley Robinson)"
 book_author: "Kim Stanley Robinson"
 categories: finished
 num_pages: 576
+review_lang: en
 ---
 
 One of these books I picked after seeing so many people recommend it. I had a huge apprehension picking it up as Kim Stanley Robinson wrote the Mars Trilogy and I hated this book with such a passion, I didn’t read sci-fi books for years after that….

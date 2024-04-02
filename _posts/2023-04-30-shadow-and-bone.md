@@ -3,6 +3,7 @@ layout: post
 title:  "Shadow and Bone (Leigh Bardugo)"
 book_author: "Leigh Bardugo"
 categories: finished
+review_lang: en
 ---
 
 The GrishaVerse

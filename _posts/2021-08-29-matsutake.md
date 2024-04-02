@@ -3,6 +3,7 @@ layout: post
 title:  "The Mushroom at the End of the World (Anna Lowenhaupt Tsing)"
 book_author: "Anna Lowenhaupt Tsing"
 categories: finished
+review_lang: en
 ---
 
 Now I know why this book received so many awards.

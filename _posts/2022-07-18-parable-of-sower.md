@@ -3,6 +3,7 @@ layout: post
 title:  "Parable of the Sower (Octavia E. Butler)"
 book_author: "Octavia E. Butler"
 categories: finished
+review_lang: en
 ---
 
 I'll read both volumes of the serie so you'll find both reviews below:

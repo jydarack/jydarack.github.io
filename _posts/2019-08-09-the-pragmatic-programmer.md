@@ -3,6 +3,7 @@ layout: post
 title:  "The Pragmatic Programmer (Andrew Hunt, David Thomas)"
 book_author: "Andrew Hunt, David Thomas"
 categories: reading
+review_lang: en
 ---
 
 Hear a ***LOT*** about this book so I bought it during one of my recent haul. A new version is supposed to come out at the end of 2019 but, too late for me. So yes, I am reading the 2000 edition, and that will be fun to read.

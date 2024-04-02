@@ -3,6 +3,7 @@ layout: post
 title:  "Generation left (Keir Milburn)"
 book_author: "Keir Milburn"
 categories: finished
+review_lang: en
 ---
 
 A few month ago, I discovered the Japanese magazine POSSE. They focus on social issues and their latest publication was on Generation Left. And rather than read the dossier without knowing the original material, I just put it aside and waited to find some time and be in the right brain configuration to read it.

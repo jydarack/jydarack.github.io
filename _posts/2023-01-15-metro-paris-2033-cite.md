@@ -3,6 +3,7 @@ layout: post
 title:  "Metro Paris 2033 - Cité (Pierre Bordage)"
 book_author: "Pierre Bordage"
 categories: finished
+review_lang: en
 ---
 
 Les differents tomes de Metro Paris 2033

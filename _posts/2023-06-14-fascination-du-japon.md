@@ -4,6 +4,7 @@ title:  "La fascination du Japon (Philippe Pelletier)"
 book_author: "Philippe Pelletier"
 categories: finished
 num_pages: 320
+review_lang: fr
 ---
 
 Un de ces livres pris un peu au pif sur une étagere de Kinokuniya.

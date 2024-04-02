@@ -4,6 +4,7 @@ title:  "Lovecraft Country (Matt Ruff)"
 book_author: "Matt Ruff"
 categories: finished
 num_pages: 372
+review_lang: en
 ---
 
 Picked up the book while looking for a change in style and content, so why not lovecraft-inspired horror. It doesn't hurt that the book had a lot of good reviews.

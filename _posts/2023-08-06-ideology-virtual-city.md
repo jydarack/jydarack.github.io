@@ -4,6 +4,7 @@ title:  "Ideology and the virtual city (Jon Bailes)"
 book_author: "Jon Bailes"
 categories: finished
 num_pages: 89
+review_lang: en
 ---
 
 Part of a group of books on urbanism I am currently hyperfocusing on. Or so I thought.

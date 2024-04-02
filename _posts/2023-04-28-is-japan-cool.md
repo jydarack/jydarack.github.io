@@ -3,6 +3,7 @@ layout: post
 title:  "日本はクール⁉︎ (Benjamin W. Boas)"
 book_author: "Benjamin W. Boas"
 categories: finished
+review_lang: en
 ---
 
 One of these books I couldn't let pass as it deals with a topic I have discussed a lot on my blog.

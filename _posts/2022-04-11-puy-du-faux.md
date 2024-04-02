@@ -3,6 +3,7 @@ layout: post
 title:  "Le Puy du Faux (F Besson, M Larrère, P Ducret, G Lancereau)"
 book_author: "Florian Besson, Mathilde Larrère, Pauline Ducret, Guillaume Lancereau"
 categories: finished
+review_lang: fr
 ---
 
 Pour faire original, un livre acheté apres avoir vu la polémique enfler sur Twitter, le livre attisant la hargne des fafs qui ont doxé une des autrices sans ouvrir le livre. Et en voyant que la bataille continuait sur Amazon, les revues étant extremement polarisées mais avec tres peu d'achats verifiés, de chaque coté des deux etremes.

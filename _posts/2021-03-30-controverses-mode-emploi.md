@@ -3,6 +3,7 @@ layout: post
 title:  "Controverses mode d'emploi (collectif)"
 book_author: "Collectif"
 categories: finished
+review_lang: fr
 ---
 
 D'un coté, j'aurais du me renseigner un peu plus avant d'acheter ce livre. Je m'attendais a ce qu'il traite des nombreuses polémiques qui fleurissent quotidiennement sur les sujets les plus mineurs et qui sont montés en épingle. Et le livre précise dans ses premières qu'il ne traite pas de cela. J'aurais donc appris que controverses et polémiques sont deux choses bien différentes. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Foundation's edge (Isaac Asimov)"
 book_author: "Isaac Asimov"
 categories: finished
+review_lang: en
 ---
 
 I am currently re-reading the Foundation series. The notes on the other books are found below, the links will be updated as I go through the books:

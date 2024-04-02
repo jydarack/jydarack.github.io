@@ -3,6 +3,7 @@ layout: post
 title:  "Robo Sapiens Japanicus (Jennifer Robertson)"
 book_author: "Jennifer Robertson"
 categories: finished
+review_lang: en
 ---
 
 Damn, I loved this book.

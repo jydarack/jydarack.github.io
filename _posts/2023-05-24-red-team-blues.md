@@ -4,6 +4,7 @@ title:  "Red Team Blues (Cory Doctorow)"
 book_author: "Cory Doctorow"
 categories: finished
 num_pages: 212
+review_lang: en
 ---
 
 It would have been difficult to miss this book announcement as Cory Doctorow is being interviewed in what feels like half the podcasts I listen to. I also bought his previous non-fiction book (Chokepoint capitalism) but still haven't opened it (that's how bad my tsundoku situation is). So I didn't really know what to expect.

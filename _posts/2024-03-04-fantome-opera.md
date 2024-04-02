@@ -4,6 +4,7 @@ title:  "Le fantôme de l'opéra (Gaston Leroux)"
 book_author: "Gaston Leroux"
 categories: finished
 num_pages: 343
+review_lang: fr
 ---
 
 Dur de ne jamais avoir entendu parlé du Fantôme de l'Opéra, principalement grâce à la comédie musicale qui jouait à Broadway depuis 1988 (oui, jouait. Après [13981 représentations](https://www.npr.org/2023/04/15/1169698583/phantom-of-the-opera-closes-broadway), la compagnie a tiré le rideau et passe à autre chose). De mon coté, c'est surtout parce que ma femme aime beaucoup la musique associée, qu'on a un des vinyls qui va bien. Donc quand elle cherchait quelque chose à lire pour travailler un peu son français, ça semblait un bon choix. Et puis, je ne l'avais jamais lu non plus.

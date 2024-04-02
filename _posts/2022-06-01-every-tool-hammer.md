@@ -3,6 +3,7 @@ layout: post
 title:  "Every tool's a hammer (Adam Savage)"
 book_author: "Adam Savage"
 categories: finished
+review_lang: en
 ---
 
 Why did I pick this book? I don't even know how I came to know of its existence. I mean, I am not a fan of Adam Savage. I have not seen more than 5 episodes of Mythbusters and I am not even sure I want to see more.

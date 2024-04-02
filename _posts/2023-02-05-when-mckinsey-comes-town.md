@@ -3,6 +3,7 @@ layout: post
 title:  "When McKinsey comes to town (W. Bogdanich, M. Forsythe)"
 book_author: "W. Bogdanich, M. Forsythe"
 categories: finished
+review_lang: en
 ---
 
 Sometimes, though if you go through my other posts this comes up quite often for me, the news cycle (here the involvment of McKinsey in the destruction of the french public service and Macron's ties with it) and the release of this book.

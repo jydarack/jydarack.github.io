@@ -4,6 +4,7 @@ title:  "Chokepoint Capitalism (R. Giblin, C. Doctorow)"
 book_author: "R. Giblin, C. Doctorow"
 categories: finished
 num_pages: 260
+review_lang: en
 ---
 
 Oh damn, that was quite a difference with [Red Team Blue]({% post_url 2023-05-24-red-team-blues %}). I actually bought quite some time ago but the book stayed on my pile for months.

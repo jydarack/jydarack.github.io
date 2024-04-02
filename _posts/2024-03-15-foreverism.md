@@ -4,6 +4,7 @@ title:  "Foreverism (Grafton Tanner)"
 book_author: "Grafton Tanner"
 categories: finished
 num_pages: 118
+review_lang: en
 ---
 
 Another book I bought after listening to an [episode of the Tech Won't Save Us](https://techwontsave.us/episode/208_how_foreverism_degrades_our_culture_w_grafton_tanner) podcast. And, for once, I read it almost immediately.

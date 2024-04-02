@@ -4,6 +4,7 @@ title:  "This is how you lose the time war (A. El-Mothar, M. Gladstone)"
 book_author: "A. El-Mothar, M. Gladstone"
 categories: finished
 num_pages: 198
+review_lang: en
 ---
 
 This is one of those books which suddenly seemed to be everywhere on the internet. I had it on my Want-to-read list for some time but it's listening to one of the recent [Cory Doctorow's interviews]({% post_url 2023-05-24-red-team-blues %}) where he recommended the book finally decided me to buy it (as well as the other books he recommended).

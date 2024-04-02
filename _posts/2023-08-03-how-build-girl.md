@@ -4,6 +4,7 @@ title:  "How to build a girl (Caitlin Moran)"
 book_author: "Caitlin Moran"
 categories: finished
 num_pages: 343
+review_lang: en
 ---
 
 This is a book that had been waiting on my want-to-read list for quite some time so I forgot why I put it there in the first place.

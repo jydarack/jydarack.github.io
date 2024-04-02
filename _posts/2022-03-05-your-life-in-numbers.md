@@ -3,6 +3,7 @@ layout: post
 title:  "Your life in numbers: Modeling society through data (Pablo Jensen)"
 book_author: "Pablo Jensen"
 categories: finished
+review_lang: en
 ---
 
 I can't exactly remember what triggered me to buy this book but it is one of several books I bought on the topic I recently purchased. And it is a good completement after re-reading [Foundation]({% post_url 2021-08-30-foundation %}) as it starts by explaining why the social atoms approach, which is how Seldon is supposed to have built psychohistory, is bullshit.

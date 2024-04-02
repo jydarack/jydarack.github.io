@@ -3,6 +3,7 @@ layout: post
 title:  "The end of overeating (David Kessler)"
 book_author: "David Kessler"
 categories: finished
+review_lang: en
 ---
 
 Bought this book upon recommendation from Amelie Marie in Tokyo. Topic had been a pet peeve of mine for quite some time (2006 on) but especially since I came to japan and have been living in a sharehouse for most of the last 5 years. 

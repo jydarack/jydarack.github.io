@@ -3,6 +3,7 @@ layout: post
 title:  "Techno-luttes - Enquetes sur ceux qui résistent a la technologie (F. Benoit, N. Celnik)"
 book_author: "F. Benoit, N. Celnik"
 categories: finished
+review_lang: fr
 ---
 
 A book I saw being recommended in my now defunct Twitter feed.

@@ -3,6 +3,7 @@ layout: post
 title:  "Road to nowhere (Paris Marx)"
 book_author: "Paris Marx"
 categories: finished
+review_lang: en
 ---
 
 This one was a book I had been waiting for to read for a long time. I started listening to the Tech Won't Save Us at the beginning of the pandemic AND swtiched to a car-related job this year so *of course* I was interested in what TWSU's host, Paris Marx had to say. It just took me forever to start reading the book (eventhough I pre-ordered it) and even more time to write this review (fighting epic sized brain melt right now).

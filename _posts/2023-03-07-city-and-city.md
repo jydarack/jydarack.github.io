@@ -3,6 +3,7 @@ layout: post
 title:  "The city & the city (China Miéville)"
 book_author: "China Miéville"
 categories: finished
+review_lang: en
 ---
 
 That was a damn good book! Picked because I started reading October by the same author something like more than a year ago and am still stuck due to the too many names I have to remember while at the same time reading a lot of good comments about him.

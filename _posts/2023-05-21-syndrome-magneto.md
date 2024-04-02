@@ -4,6 +4,7 @@ title:  "Le syndrome Magneto (Benjamin Patinaud)"
 book_author: "Benjamin Patinaud"
 categories: finished
 num_pages: 419
+review_lang: fr
 ---
 
 J'avais une commande de livre a faire en France et j'avais entendu pas mal de bien de ce livre donc, hop, dans le panier.

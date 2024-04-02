@@ -3,6 +3,7 @@ layout: post
 title:  "Immersive enclosure (Paul Roquet)"
 book_author: "Paul Roquet"
 categories: finished
+review_lang: en
 ---
 
 A book in the same vein as [Robo Sapiens Japanicus]({% post_url 2022-03-17-robo-sapiens-japanicus %}), this time on VR, of course I had to read it. Especially after spending some time writing a [long blog post](https://achikochi.tokyo/fr/blog/les-guides-du-pif/metavers-au-japon/) on the topic some time ago.

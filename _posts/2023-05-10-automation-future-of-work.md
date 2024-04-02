@@ -3,6 +3,7 @@ layout: post
 title:  "Automation and the future of work (Aaron Benanav)"
 book_author: "Aaron Benanav"
 categories: finished
+review_lang: en
 ---
 
 Picked this book while trying to improve my knowledge on tech criticism.

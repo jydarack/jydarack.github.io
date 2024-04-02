@@ -3,6 +3,7 @@ layout: post
 title:  "Agora Toxica (Stephanie Lamy)"
 book_author: "Stephanie Lamy"
 categories: finished
+review_lang: en
 ---
 
 Un de ces livres que j'avais identifié au moment ou j'étais a fond sur les actions de propagande sur le net.

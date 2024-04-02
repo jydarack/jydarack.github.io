@@ -3,6 +3,7 @@ layout: post
 title:  "家族から放置されて、大人になりました (ネコゼ・モンズースー)"
 book_author: "ネコゼ・モンズースー"
 categories: finished
+review_lang: en
 ---
 
 I was recently diagnosticated with ADHD and, while I was also recommended [a book on the subject]({% post_url 2023-04-27-adult-adhd-control-guide %}) by the doctor, this was popped up in my feed and seems more attuned to what I was looking for.

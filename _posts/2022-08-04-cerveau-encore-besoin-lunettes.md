@@ -3,6 +3,7 @@ layout: post
 title:  "Mon cerveau a encore besoin de lunettes (Dr Annick Vincent)"
 book_author: "Dr Annick Vincent"
 categories: finished
+review_lang: fr
 ---
 
 Un peu en train de tater le terrain pour savoir si je ne devrais pas faire une évaluation pour TDA. Et dans la communauté francophone, ce livre fait partie des références.

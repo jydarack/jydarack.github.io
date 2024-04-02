@@ -3,6 +3,7 @@ layout: post
 title:  "Pure Invention (Matt Alt)"
 book_author: "Matt Alt"
 categories: finished
+review_lang: en
 ---
 
 In a way, this might be the book I would have been recommended the least. A book on Japan pop culture.

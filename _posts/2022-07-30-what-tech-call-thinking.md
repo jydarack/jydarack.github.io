@@ -3,6 +3,7 @@ layout: post
 title:  "What tech call thinking (Adrian Daub)"
 book_author: "Adrian Daub"
 categories: finished
+review_lang: en
 ---
 
 Two weeks after having actually finished reading the book, I have still not made up my mind.

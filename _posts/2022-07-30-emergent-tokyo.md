@@ -3,6 +3,7 @@ layout: post
 title:  "Emergent Tokyo (Jorge Almazan)"
 book_author: "Jorge Almazan"
 categories: finished
+review_lang: en
 ---
 
 This book had been recommanded to me while I was discussing how much my love for Tokyo trivia had derailed a discussion with an ex-colleague who just arrived in the city. It also comes at a time when I going more and more into urban planning and related data analysis. My current job plays a role in that but I chose that job because I loved what I was seeing the field. Anyway.

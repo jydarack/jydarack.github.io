@@ -4,6 +4,7 @@ title:  "A city on Mars (Kelly & Zach Weinersmith)"
 book_author: "Kelly & Zach Weinersmith"
 categories: finished
 num_pages: 388
+review_lang: en
 ---
 
 With the current race / dick contest happening in the space industry right now, and the whole discussion on *colonising* the Moon or Mars or whatever, the book by [Kelly](http://weinersmith.com) and [Zach](https://www.smbc-comics.com) Weinersmith arrived at the right time for me.

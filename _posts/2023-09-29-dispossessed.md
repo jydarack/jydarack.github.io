@@ -4,6 +4,7 @@ title:  "The dispossessed (Ursula K. Le Guin)"
 book_author: "Ursula K. Le Guin"
 categories: finished
 num_pages: 260
+review_lang: en
 ---
 
 I have read countless reviews of Le Guin’s books and how influential they were. But I hadn’t read any until now.

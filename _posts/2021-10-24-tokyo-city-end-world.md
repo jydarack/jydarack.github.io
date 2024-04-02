@@ -3,6 +3,7 @@ layout: post
 title:  "Tokyo, the city at the end of the world (Peter Popham)"
 book_author: "Peter Popham"
 categories: finished
+review_lang: en
 ---
 
 Better known for his later books on Burma and Aung San Suu Kyi, Peter Popham's first book was actually focusing on Tokyo. More precisely, it takes the city, with its buildings and streets as the main element of his stories.

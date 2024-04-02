@@ -3,6 +3,7 @@ layout: post
 title:  "Searching for home abroad - Japanese Brazilians and transnationalism (Jeffrey Lesser et al.)"
 book_author: "Jeffrey Lesser et al."
 categories: finished
+review_lang: en
 ---
 
 This is a [book I grabbed in a sayonara giveaway](https://read.dukeupress.edu/books/book/824/Searching-for-Home-AbroadJapanese-Brazilians-and) from one of my retiring university teachers, some 5 years ago. It's also part of many sociology books, I collected in the past few years, even though I have no knowledge or skill in the field. It just felt "a good topic, with good analysis angles". It just took me forever to start reading it but then I devoured the book. As usual, don't expect a summary.

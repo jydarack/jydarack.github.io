@@ -3,6 +3,7 @@ layout: post
 title:  "When we cease to understand the world (Benjamin Labatut)"
 book_author: "Benjamin Labatut"
 categories: finished
+review_lang: en
 ---
 
 Reading a science non-fiction novel for a change. Because such things exist apparently.

@@ -3,6 +3,7 @@ layout: post
 title:  "Subprime attention crisis (Tim Hwang)"
 book_author: "Tim Hwang"
 categories: finished
+review_lang: en
 ---
 
 A book that had been in my peripheral vision for some time now and finally picked it up along (way too many) other books.

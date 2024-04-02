@@ -3,6 +3,7 @@ layout: post
 title:  "Terraform (Collectif)"
 book_author: "Collectif"
 categories: finished
+review_lang: en
 ---
 
 Right around the time I usually make my SF book haul, Motherboard (Vice's tech vertical) released this collection of the short novels it published in the past years on the platform.

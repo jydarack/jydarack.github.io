@@ -3,6 +3,7 @@ layout: post
 title:  "Messing with the enemy (Clint Watts)"
 book_author: "Clint Watts"
 categories: finished
+review_lang: en
 ---
 
 One of the too many books on propaganda I took.

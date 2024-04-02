@@ -3,6 +3,7 @@ layout: post
 title:  "Calling Bullshit: The Art of Skepticism in a Data-Driven World (Carl Bergstrom, Jevin D. West)"
 book_author: "Carl Bergstrom, Jevin D. West"
 categories: finished
+review_lang: en
 ---
 
 As part of my own journey into Data Science, I wanted to read this book to understand what the pitfalls in data analysis could be, in order to not commit bullshit when that could be avoided.

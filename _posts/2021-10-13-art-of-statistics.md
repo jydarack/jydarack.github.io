@@ -3,6 +3,7 @@ layout: post
 title:  "The art of statistics (David Spiegelhalter)"
 book_author: "David Spiegelhalter"
 categories: finished
+review_lang: en
 ---
 
 This one was a complete impulse buy to fill a package from France. But I don't regret it.

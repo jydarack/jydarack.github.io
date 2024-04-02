@@ -3,6 +3,7 @@ layout: post
 title:  "Siege and Storm (Leigh Bardugo)"
 book_author: "Leigh Bardugo"
 categories: finished
+review_lang: en
 ---
 
 The GrishaVerse

@@ -4,6 +4,7 @@ title:  "Lettre aux ingenieurs qui doutent (Olivier Lefebvre)"
 book_author: "Olivier Lefebvre"
 categories: finished
 num_pages: 138
+review_lang: fr
 ---
 
 Il y a des livres dont tu lis une revue en passant et qui tu achetes immédiatement. Ce livre en fait partie.

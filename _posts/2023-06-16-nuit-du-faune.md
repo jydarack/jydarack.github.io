@@ -4,6 +4,7 @@ title:  "La nuit du faune (Romain Lucazeau)"
 book_author: "Romain Lucazeau"
 categories: finished
 num_pages: 250
+review_lang: fr
 ---
 
 Un de ces livres recommandés par le podcast [*C'est plus que de la SF*](https://www.cestplusquedelasf.com/podcasts/la-nuit-du-faune). Et du coup, pour pouvoir preparer le lien vers l'épisode qui va bien, je me rends compte que le livre a passé un 1.5 an sur mes étageres a différents états d'avancement.

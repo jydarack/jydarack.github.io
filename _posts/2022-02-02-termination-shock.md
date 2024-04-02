@@ -3,6 +3,7 @@ layout: post
 title:  "Termination shock (Neal Stephenson)"
 book_author: "Neal Stephenson"
 categories: finished
+review_lang: en
 ---
 
 I don't hide how much I love [Neal Stephenson's books](https://achikochi.tokyo/fr/blog/les-guides-du-pif/metavers-au-japon/). To the point that I have been preordering the previous 3 ones, even before much had been announced regarding their main theme.

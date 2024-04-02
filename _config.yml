@@ -45,6 +45,9 @@ permalink: /:year/:title
 #   - vendor/gems/
 #   - vendor/ruby/
 
+minima:
+  date_format: "%-d %B %Y"
+
 mastodon:
   username: japonmeneatout
   instance: piaille.fr

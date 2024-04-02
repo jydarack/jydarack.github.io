@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-{% assign page_lang = page.review_lang %}
-{% unless page_lang %}{% assign page_lang = page.lang %}{% endunless %}
+{%- assign page_lang = page.review_lang -%}
+{%- unless page_lang %}{% assign page_lang = page.lang -%}{%- endunless -%}
 <html lang="{{ page_lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}

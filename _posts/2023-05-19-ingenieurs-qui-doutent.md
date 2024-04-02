@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lettre aux ingénieurs qui doutent (Olivier Lefebvre)"
+title:  "Lettre aux ingénieurs qui doutent"
 book_author: "Olivier Lefebvre"
 categories: finished
 num_pages: 138

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Software Architecture in Practice (Len Bass, Paul Clements, Rick Kazman)"
+book_author: "Len Bass, Paul Clements, Rick Kazman"
 categories: reading
 ---
 

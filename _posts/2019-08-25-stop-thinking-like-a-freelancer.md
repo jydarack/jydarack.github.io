@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Stop thinking like a freelancer (Liam Veitch)"
+book_author: "Liam Veitch"
 categories: Finished
 ---
 

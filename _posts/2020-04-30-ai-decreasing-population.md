@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AI x Decreasing Population (Keisuke Nakahara)"
+book_author: "Keisuke Nakahar"
 categories: finished
 ---
 

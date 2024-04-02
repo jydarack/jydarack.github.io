@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Pragmatic Programmer (Andrew Hunt, David Thomas)"
+book_author: "Andrew Hunt, David Thomas"
 categories: reading
 ---
 

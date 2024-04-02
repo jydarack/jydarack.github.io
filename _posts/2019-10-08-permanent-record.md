@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Permanent Record (Edward Snowden)"
+book_author: "Edward Snowden"
 categories: finished
 ---
 

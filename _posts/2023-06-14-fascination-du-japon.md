@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La fascination du Japon (Philippe Pelletier)"
+title:  "La fascination du Japon"
 book_author: "Philippe Pelletier"
 categories: finished
 num_pages: 320

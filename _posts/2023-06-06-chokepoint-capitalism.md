@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chokepoint Capitalism (R. Giblin, C. Doctorow)"
+title:  "Chokepoint Capitalism"
 book_author: "R. Giblin, C. Doctorow"
 categories: finished
 num_pages: 260

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Subprime attention crisis (Tim Hwang)"
+title:  "Subprime attention crisis"
 book_author: "Tim Hwang"
 categories: finished
 review_lang: en

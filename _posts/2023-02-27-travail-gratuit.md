@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Travail gratuit : la nouvelle exploitation ? (Maud Simonet)"
+title:  "Travail gratuit : la nouvelle exploitation ?"
 book_author: "Maud Simonet"
 categories: finished
 review_lang: fr

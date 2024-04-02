@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Foundation (Isaac Asimov)"
+title:  "Foundation"
 book_author: "Isaac Asimov"
 categories: finished
 review_lang: en

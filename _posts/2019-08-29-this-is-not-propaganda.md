@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  This is not propaganda (Peter Pomerantsev)"
+title:  This is not propaganda"
 book_author: "Peter Pomerantsev"
 categories: finished
 review_lang: en

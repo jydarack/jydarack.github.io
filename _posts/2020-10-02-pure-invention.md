@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pure Invention (Matt Alt)"
+title:  "Pure Invention"
 book_author: "Matt Alt"
 categories: finished
 review_lang: en

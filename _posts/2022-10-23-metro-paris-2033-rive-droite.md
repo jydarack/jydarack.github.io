@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Metro Paris 2033 - Rive droite (Pierre Bordage)"
+title:  "Metro Paris 2033 - Rive droite"
 book_author: "Pierre Bordage"
 categories: finished
 review_lang: fr

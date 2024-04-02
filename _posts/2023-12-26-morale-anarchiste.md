@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La morale anarchiste (Pierre Kropotkine)"
+title:  "La morale anarchiste"
 book_author: "Pierre Kropotkine"
 categories: finished
 num_pages: 73

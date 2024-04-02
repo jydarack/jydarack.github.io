@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Les briseurs de machines (N. Chevassus-au-Louis)"
+title:  "Les briseurs de machines"
 book_author: "Nicolas Chevassus-au-Louis"
 categories: finished
 num_pages: 264

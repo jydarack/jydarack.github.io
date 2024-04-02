@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Internet Con (Cory Doctorow)"
+title:  "The Internet Con"
 book_author: "Cory Doctorow"
 categories: finished
 num_pages: 174

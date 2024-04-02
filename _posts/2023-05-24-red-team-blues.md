@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Red Team Blues (Cory Doctorow)"
+title:  "Red Team Blues"
 book_author: "Cory Doctorow"
 categories: finished
 num_pages: 212

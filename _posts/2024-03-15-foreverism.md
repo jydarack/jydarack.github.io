@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Foreverism (Grafton Tanner)"
+title:  "Foreverism"
 book_author: "Grafton Tanner"
 categories: finished
 num_pages: 118

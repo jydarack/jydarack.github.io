@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Faster than normal (Peter Shankman)"
+title:  "Faster than normal"
 book_author: "Peter Shankman"
 categories: finished
 num_pages: 231

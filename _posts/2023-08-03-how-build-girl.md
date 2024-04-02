@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to build a girl (Caitlin Moran)"
+title:  "How to build a girl"
 book_author: "Caitlin Moran"
 categories: finished
 num_pages: 343

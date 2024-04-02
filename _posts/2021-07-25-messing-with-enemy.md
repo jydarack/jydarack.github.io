@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Messing with the enemy (Clint Watts)"
+title:  "Messing with the enemy"
 book_author: "Clint Watts"
 categories: finished
 review_lang: en

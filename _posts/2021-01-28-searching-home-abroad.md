@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Searching for home abroad - Japanese Brazilians and transnationalism (Jeffrey Lesser et al.)"
+title:  "Searching for home abroad - Japanese Brazilians and transnationalism"
 book_author: "Jeffrey Lesser et al."
 categories: finished
 review_lang: en

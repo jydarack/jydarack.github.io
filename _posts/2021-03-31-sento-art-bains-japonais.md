@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sento, l'art des bains japonais (Stéphanie Crohin Kishigami)"
+title:  "Sento, l'art des bains japonais"
 book_author: "Stéphanie Crohin Kishigami"
 categories: finished
 review_lang: fr

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monstrous regiment (Terry Pratchett)"
+title:  "Monstrous regiment"
 book_author: "Terry Pratchett"
 categories: finished
 num_pages: 474

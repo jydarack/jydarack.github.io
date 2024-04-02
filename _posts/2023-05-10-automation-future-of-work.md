@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Automation and the future of work (Aaron Benanav)"
+title:  "Automation and the future of work"
 book_author: "Aaron Benanav"
 categories: finished
 review_lang: en

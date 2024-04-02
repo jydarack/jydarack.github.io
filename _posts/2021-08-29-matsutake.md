@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Mushroom at the End of the World (Anna Lowenhaupt Tsing)"
+title:  "The Mushroom at the End of the World"
 book_author: "Anna Lowenhaupt Tsing"
 categories: finished
 review_lang: en

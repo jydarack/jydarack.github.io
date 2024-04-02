@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Emergent Tokyo (Jorge Almazan)"
+title:  "Emergent Tokyo"
 book_author: "Jorge Almazan"
 categories: finished
 review_lang: en

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le propriétaire absent (Takiji Kobayashi)"
+title:  "Le propriétaire absent"
 book_author: "Takiji Kobayashi"
 categories: finished
 num_pages: 202

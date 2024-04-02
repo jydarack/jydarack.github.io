@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "家族から放置されて、大人になりました (ネコゼ・モンズースー)"
+title:  "家族から放置されて、大人になりました"
 book_author: "ネコゼ・モンズースー"
 categories: finished
 review_lang: en
 ---
 
-I was recently diagnosticated with ADHD and, while I was also recommended [a book on the subject]({% post_url 2023-04-27-adult-adhd-control-guide %}) by the doctor, this was popped up in my feed and seems more attuned to what I was looking for.
+I was recently diagnosed with ADHD and, while I was also recommended [a book on the subject]({% post_url 2023-04-27-adult-adhd-control-guide %}) by the doctor, this was popped up in my feed and seems more attuned to what I was looking for.
 
-So this books/manga follows Nekoze, a yound woman very recently diagnosed with ADHD avec having lived for years with OCD after suffering neglect from her family.
+So this books/manga follows Nekoze, a young woman very recently diagnosed with ADHD avec having lived for years with OCD after suffering neglect from her family.
 
 It is deeply personal, touching on the different issues she encountered growing up and how her symptoms evolved with her environment as well as her reaction to her diagnostic that she first considers critically.
 

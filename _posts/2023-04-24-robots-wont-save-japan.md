@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Robots won't save Japan (James Wright)"
+title:  "Robots won't save Japan"
 book_author: "James Wright"
 categories: finished
 review_lang: en

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Memory Called Empire (Arkady Martine)"
+title:  "A Memory Called Empire"
 book_author: "Arkady Martine"
 categories: finished
 review_lang: en

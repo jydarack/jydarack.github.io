@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Every tool's a hammer (Adam Savage)"
+title:  "Every tool's a hammer"
 book_author: "Adam Savage"
 categories: finished
 review_lang: en

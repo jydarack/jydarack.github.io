@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ideology and the virtual city (Jon Bailes)"
+title:  "Ideology and the virtual city"
 book_author: "Jon Bailes"
 categories: finished
 num_pages: 89

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python testing with pytest (Bryan Okken)"
+title:  "Python testing with pytest"
 book_author: "Bryan Okken"
 categories: reading
 review_lang: en

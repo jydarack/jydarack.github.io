@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Robo Sapiens Japanicus (Jennifer Robertson)"
+title:  "Robo Sapiens Japanicus"
 book_author: "Jennifer Robertson"
 categories: finished
 review_lang: en

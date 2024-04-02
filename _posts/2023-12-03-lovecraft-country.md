@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lovecraft Country (Matt Ruff)"
+title:  "Lovecraft Country"
 book_author: "Matt Ruff"
 categories: finished
 num_pages: 372

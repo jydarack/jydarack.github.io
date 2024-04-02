@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The dispossessed (Ursula K. Le Guin)"
+title:  "The dispossessed"
 book_author: "Ursula K. Le Guin"
 categories: finished
 num_pages: 260

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Immersive enclosure (Paul Roquet)"
+title:  "Immersive enclosure"
 book_author: "Paul Roquet"
 categories: finished
 review_lang: en

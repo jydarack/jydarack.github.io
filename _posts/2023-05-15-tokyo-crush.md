@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tokyo Crush (Vanessa Montalbano)"
+title:  "Tokyo Crush"
 book_author: "Vanessa Montalbano"
 categories: finished
 num_pages: 198

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Termination shock (Neal Stephenson)"
+title:  "Termination shock"
 book_author: "Neal Stephenson"
 categories: finished
 review_lang: en

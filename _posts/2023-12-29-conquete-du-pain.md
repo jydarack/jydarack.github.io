@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La conquête du pain (Pierre Kropotkine)"
+title:  "La conquête du pain"
 book_author: "Pierre Kropotkine"
 categories: finished
 num_pages: 262

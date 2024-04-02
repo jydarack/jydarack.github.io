@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "日本はクール⁉︎ (Benjamin W. Boas)"
+title:  "日本はクール⁉︎"
 book_author: "Benjamin W. Boas"
 categories: finished
 review_lang: en

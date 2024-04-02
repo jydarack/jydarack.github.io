@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Technofeudalism (Yanis Varoufakis)"
+title:  "Technofeudalism"
 book_author: "Yanis Varoufakis"
 categories: finished
 num_pages: 214

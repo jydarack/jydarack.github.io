@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The art of statistics (David Spiegelhalter)"
+title:  "The art of statistics"
 book_author: "David Spiegelhalter"
 categories: finished
 review_lang: en

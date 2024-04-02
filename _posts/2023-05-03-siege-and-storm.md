@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Siege and Storm (Leigh Bardugo)"
+title:  "Siege and Storm"
 book_author: "Leigh Bardugo"
 categories: finished
 review_lang: en

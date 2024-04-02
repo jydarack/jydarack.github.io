@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Road to nowhere (Paris Marx)"
+title:  "Road to nowhere"
 book_author: "Paris Marx"
 categories: finished
 review_lang: en

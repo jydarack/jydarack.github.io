@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Permanent Record (Edward Snowden)"
+title:  "Permanent Record"
 book_author: "Edward Snowden"
 categories: finished
 review_lang: en

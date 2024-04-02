@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Les pouvoirs de l'enchantement (Anne Besson)"
+title:  "Les pouvoirs de l'enchantement"
 book_author: "Anne Besson"
 categories: finished
 num_pages: 181

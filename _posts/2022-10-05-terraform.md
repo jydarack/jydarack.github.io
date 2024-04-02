@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Terraform (Collectif)"
+title:  "Terraform"
 book_author: "Collectif"
 categories: finished
 review_lang: en

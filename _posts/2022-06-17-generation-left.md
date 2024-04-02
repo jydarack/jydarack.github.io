@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Generation left (Keir Milburn)"
+title:  "Generation left"
 book_author: "Keir Milburn"
 categories: finished
 review_lang: en

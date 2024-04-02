@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le bateau-usine (Takiji Kobayashi)"
+title:  "Le bateau-usine"
 book_author: "Takiji Kobayashi"
 categories: finished
 num_pages: 161

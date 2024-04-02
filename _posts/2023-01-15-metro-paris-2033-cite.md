@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Metro Paris 2033 - Cité (Pierre Bordage)"
+title:  "Metro Paris 2033 - Cité"
 book_author: "Pierre Bordage"
 categories: finished
 review_lang: en

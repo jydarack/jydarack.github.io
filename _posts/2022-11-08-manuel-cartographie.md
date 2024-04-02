@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Manuel de cartographie (Nicolas Lambert, Christine Zanin)"
+title:  "Manuel de cartographie"
 book_author: "Nicolas Lambert, Christine Zanin"
 categories: finished
 review_lang: fr

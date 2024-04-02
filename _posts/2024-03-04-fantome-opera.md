@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le fantôme de l'opéra (Gaston Leroux)"
+title:  "Le fantôme de l'opéra"
 book_author: "Gaston Leroux"
 categories: finished
 num_pages: 343

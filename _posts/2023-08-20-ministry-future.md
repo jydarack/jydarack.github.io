@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ministry for the Future (Kim Stanley Robinson)"
+title:  "Ministry for the Future"
 book_author: "Kim Stanley Robinson"
 categories: finished
 num_pages: 576
@@ -55,10 +55,12 @@ From the Irish main characters referring to US animals to describe animals which
 
 It also feels like KSR, having decided to give some India-background to some of his plot and characters, did some research and discovered that their was some Indian-English idioms and decided to make use of that knowledge. More precisely, he overuses « do the needful » and this only. And he did this only for his Indian characters. No British- or Irish English. No Russian intonations for his Russian character, just plain old American English because, you know, for a book 80% based in Switzerland, with an international cast of characters, it just makes sense it seems. Insert Captain Picard facepalm gif here.
 
-Looking back, I might have been a bit harsh earlier saying there was no grassroots actions. There’s a chapter which is basically a long list of organisation names. Yep, that’s it. A list. Have I already mentioned how much the style sucks and some chapters feel like fillers?
+Looking back, I might have been a bit harsh earlier saying there was no grassroot actions. There’s a chapter which is basically a long list of organisation names. Yep, that’s it. A list. Have I already mentioned how much the style sucks and some chapters feel like fillers?
 
 ## Final word
 
 At best, meh.
 
 More readable than the Mars Trilogy but I didn’t like neither content nor style, even though a few chapters are good.
+
+Later complement : Having read / listened to a lot of interviews following the publication of the french edition of the book, I now understand that his main target audience is the actual public workers who are the main drivers of the story. Make a story with characters they can identify with so that things start moving ? 

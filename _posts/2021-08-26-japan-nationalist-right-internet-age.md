@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Japan's nationalist right in the internet age (Jeffrey J. Hall)"
+title:  "Japan's nationalist right in the internet age"
 book_author: "Jeffrey J. Hall"
 categories: finished
 review_lang: en

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Terraformers (Annalee Newitz)"
+title:  "The Terraformers"
 book_author: "Annalee Newitz"
 categories: finished
 num_pages: 335

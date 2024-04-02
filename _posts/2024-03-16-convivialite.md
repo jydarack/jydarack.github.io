@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La convivialité (Ivan Illich)"
+title:  "La convivialité"
 book_author: "Ivan Illich"
 categories: finished
 num_pages: 158

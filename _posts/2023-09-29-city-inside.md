@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The city inside (Samit Basu)"
+title:  "The city inside"
 book_author: "Samit Basu"
 categories: finished
 num_pages: 260

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tokyo, the city at the end of the world (Peter Popham)"
+title:  "Tokyo, the city at the end of the world"
 book_author: "Peter Popham"
 categories: finished
 review_lang: en

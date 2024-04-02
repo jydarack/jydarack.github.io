@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pourquoi l'extreme droite domine la toile (Achraf Ben Brahim)"
+title:  "Pourquoi l'extreme droite domine la toile"
 book_author: "Achraf Ben Brahim"
 categories: finished
 num_pages: 112

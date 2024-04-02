@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The end of overeating (David Kessler)"
+title:  "The end of overeating"
 book_author: "David Kessler"
 categories: finished
 review_lang: en

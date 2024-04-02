@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to blow up a pipeline (Andreas Malm)"
+title:  "How to blow up a pipeline"
 book_author: "Andreas Malm"
 categories: finished
 review_lang: en

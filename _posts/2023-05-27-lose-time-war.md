@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is how you lose the time war (A. El-Mothar, M. Gladstone)"
+title:  "This is how you lose the time war"
 book_author: "A. El-Mothar, M. Gladstone"
 categories: finished
 num_pages: 198

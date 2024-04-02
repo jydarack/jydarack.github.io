@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mon cerveau a encore besoin de lunettes (Dr Annick Vincent)"
+title:  "Mon cerveau a encore besoin de lunettes"
 book_author: "Dr Annick Vincent"
 categories: finished
 review_lang: fr

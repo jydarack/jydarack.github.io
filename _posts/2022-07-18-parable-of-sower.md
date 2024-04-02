@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Parable of the Sower (Octavia E. Butler)"
+title:  "Parable of the Sower"
 book_author: "Octavia E. Butler"
 categories: finished
 review_lang: en

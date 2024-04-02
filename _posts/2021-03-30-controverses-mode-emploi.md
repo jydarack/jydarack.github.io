@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Controverses mode d'emploi (collectif)"
+title:  "Controverses mode d'emploi"
 book_author: "Collectif"
 categories: finished
 review_lang: fr

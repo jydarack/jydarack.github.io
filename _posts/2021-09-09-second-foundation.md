@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second Foundation (Isaac Asimov)"
+title:  "Second Foundation"
 book_author: "Isaac Asimov"
 categories: finished
 review_lang: en

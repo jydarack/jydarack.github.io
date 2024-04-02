@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Foundation and Empire (Isaac Asimov)"
+title:  "Foundation and Empire"
 book_author: "Isaac Asimov"
 categories: finished
 review_lang: en

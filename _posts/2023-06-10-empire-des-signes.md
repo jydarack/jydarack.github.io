@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "L'empire des signes (Roland Barthes)"
+title:  "L'empire des signes"
 book_author: "Roland Barthes"
 categories: finished
 num_pages: 120

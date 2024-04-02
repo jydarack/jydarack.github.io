@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tokyo Cyberpunk (Steven Brown)"
+title:  "Tokyo Cyberpunk"
 book_author: "Steven Brown"
 categories: finished
 review_lang: en

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Kaiju Preservation Society (John Scalzi)"
+title:  "The Kaiju Preservation Society"
 book_author: "John Scalzi"
 categories: finished
 num_pages: 258

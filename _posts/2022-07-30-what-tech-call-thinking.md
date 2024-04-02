@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What tech call thinking (Adrian Daub)"
+title:  "What tech call thinking"
 book_author: "Adrian Daub"
 categories: finished
 review_lang: en

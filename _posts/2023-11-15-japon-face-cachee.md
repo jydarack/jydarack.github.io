@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Japon, la face cachée de la perfection (Karyn Nishimura-Poupée)"
+title:  "Japon, la face cachée de la perfection"
 book_author: "Karyn Nishimura-Poupée"
 categories: finished
 num_pages: 340

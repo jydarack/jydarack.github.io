@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le Puy du Faux (F Besson, M Larrère, P Ducret, G Lancereau)"
+title:  "Le Puy du Faux"
 book_author: "Florian Besson, Mathilde Larrère, Pauline Ducret, Guillaume Lancereau"
 categories: finished
 review_lang: fr

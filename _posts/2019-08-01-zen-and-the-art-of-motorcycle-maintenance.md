@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zen and the art of motorcycle maintenance (Robert Pirsig)"
+title:  "Zen and the art of motorcycle maintenance"
 book_author: "Robert Pirsig"
 categories: reading
 review_lang: en

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A city on Mars (Kelly & Zach Weinersmith)"
+title:  "A city on Mars"
 book_author: "Kelly & Zach Weinersmith"
 categories: finished
 num_pages: 388

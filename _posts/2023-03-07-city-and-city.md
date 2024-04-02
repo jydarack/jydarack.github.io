@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The city & the city (China Miéville)"
+title:  "The city & the city"
 book_author: "China Miéville"
 categories: finished
 review_lang: en

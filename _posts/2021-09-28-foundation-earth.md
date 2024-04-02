@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Foundation and Earth (Isaac Asimov)"
+title:  "Foundation and Earth"
 book_author: "Isaac Asimov"
 categories: finished
 review_lang: en

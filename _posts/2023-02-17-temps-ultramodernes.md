@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Les temps ultramodernes (Laurent Genefort)"
+title:  "Les temps ultramodernes"
 book_author: "Laurent Genefort"
 categories: finished
 review_lang: fr

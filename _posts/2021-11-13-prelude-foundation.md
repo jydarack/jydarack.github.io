@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prelude to Foundation (Isaac Asimov)"
+title:  "Prelude to Foundation"
 book_author: "Isaac Asimov"
 categories: finished
 review_lang: en

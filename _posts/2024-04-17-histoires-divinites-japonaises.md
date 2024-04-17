@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "2024-04-16"
+date: "2024-04-17"
 title:  "Petites histoires de divinités japonaises"
 book_author: "Joranne"
 categories: finished

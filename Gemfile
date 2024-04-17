@@ -14,7 +14,7 @@ gem "base64"
 gem "bigdecimal"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima"
+# gem "minima"
 # gem "jekyll-theme-hydeout", "~> 3.3"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

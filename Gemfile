@@ -25,7 +25,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-tidy"
-  gem "jekyll-mastodon_webfinger"
+  # gem "jekyll-mastodon_webfinger"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

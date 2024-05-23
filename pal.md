@@ -44,7 +44,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Code + Clay... Data + Dirt (Shannon Mattern)
 - Beyond Data (Elizabeth M. Renieris)
 - Revolutionary Mathematics (Justin Joque)
-- Breaking things at work (Gavin Mueller)
 - Learn or Die (西川徹, 岡野原大輪)
 - ALIFE (岡瑞起)
 - Mostly harmless econometrics (Joshua D. Angrist, Jörn-Steffen Pischke)
@@ -113,7 +112,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Ce pays qui aime les idées (Sudhir Hawareesingh)
 - La logique de l'honneur (Philippe d'Iribarne)
 - The making of monolingual Japan
-- Le dernier empire de la presse (Cesar Catellvi)
 - Liberté, inégalité, individualité - La France et le Japon au miroir de l'éducation (Jean-François Sabouret, Daisuke Sonoyama)
 - Imagined Communities (Benedict Anderson)
 - The invention of Tradition (Hobsbawn and Ranger)
@@ -139,7 +137,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - 予測不能の時代 (矢野知男)
 - Doughnuts economics (Kate Raworth)
 - Une langue venue d'ailleurs (Akira Mizubayashi)
-- アイヌもやもや (北原モコットゥナシ, 田房永子)
 - アニメーターの仕事がわかる本 (西位輝実)
 - R.U.R. and the vision of artificial life (Karel Čapek + essays edited by Jitka Čejková)
 - Oser, Résister (Jean Malaurie)

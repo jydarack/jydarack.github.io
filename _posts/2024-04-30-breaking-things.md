@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "2024-04-22"
+date: "2024-04-30"
 purchase_date: "2022-07-20"
 title:  "Breaking things at work"
 book_author: "Gavin Mueller"

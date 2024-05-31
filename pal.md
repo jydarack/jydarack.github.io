@@ -57,7 +57,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Ghost Work (Mary L. Gray, Siddarth Suri)
 - Hackers (Steven Levy)
 - Contre-histoire d'internet (Félix Tréguer)
-- Wrong way (Joanne McNeil)
 - Your face belong to us (Kashmir Hill)
 - Géopolitique du numérique (Ophélie Coelho)
 - No crypto (Natastasia Hadjadji)

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "2024-05-30"
+date: "2024-05-29"
 purchase_date: "2023-10-06"
 title:  "Blood in the Machine"
 book_author: "Brian Merchant"

@@ -29,7 +29,7 @@ Some of the chapters feel like filler. Like they have no connection with the sto
 
 Reading the final 5 chapters felt like a chore. The main plots were finished but KSR wanted to close his character lines ? Or realised after 550 pages that he hadn’t really described what life was like beyond the office and the implementation projects ?
 
-# Top-down techno-solutionism
+## Top-down techno-solutionism
 
 But I think the main issue I have is the main approach of the book.
 

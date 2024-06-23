@@ -25,7 +25,7 @@ Je vais encore passer pour un râleur mais j'ai détesté la version française 
 
 Sans rapport avec la traduction, les clichés sur les femmes et les mariages avec des filles mineures abondent dans le livre. A mettre en rapport avec les 18 ans d'écart avec sa femme au Japon.
 
-## Final word
+## Le mot de la fin
 
 Meh.
 

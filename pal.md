@@ -19,7 +19,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - The Peripheral (William Gibson)
 - The future of another timeline (Annalee Newitz)
 - The left hand of darkness (Ursula K. Le Guin)
-- Fantomes du Japon (Lafcadio Hearn)
 - Radiance (Catherynne M. Valente)
 - Be there to love me at the end of the world (Sasha Fletcher)
 - クラインの壺 (岡嶋二人)

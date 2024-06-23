@@ -3,7 +3,7 @@ layout: post
 date: "2024-05-16"
 purchase_date: "2024-01-16"
 title:  "アイヌもやもや"
-book_author: "Kitahara Mokotunas"
+book_author: "Kitahara Mokotunas, Tabusa Eiko"
 categories: finished
 num_pages: 180
 review_lang: fr

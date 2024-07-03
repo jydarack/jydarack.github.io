@@ -18,7 +18,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - The city we became (N. K. Jemsin)
 - The Peripheral (William Gibson)
 - The future of another timeline (Annalee Newitz)
-- The left hand of darkness (Ursula K. Le Guin)
 - Radiance (Catherynne M. Valente)
 - Be there to love me at the end of the world (Sasha Fletcher)
 - クラインの壺 (岡嶋二人)
@@ -85,9 +84,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 ## Ecology
 
 - Half-Earth Socialism (Troy Vettese, Drew Pendergrass)
-- Marx in the anthropocene (Kohei Saito)
-- 人新世の「資本論」 (斎藤幸平)
-- Slow down (Kohei Saito)
 
 ## Urbanism
 

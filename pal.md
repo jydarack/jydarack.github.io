@@ -31,7 +31,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - By light alone (Adam Roberts)
 - The digital aesthete (Collectif)
 - Thief of time (Terry Pratchett)
-- The digital Aesthete (collectif / receuil)
+- The digital Aesthete (collectif / recueil)
 
 ## Tech and tech-criticism
 
@@ -54,13 +54,19 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Ghost Work (Mary L. Gray, Siddarth Suri)
 - Hackers (Steven Levy)
 - Contre-histoire d'internet (Félix Tréguer)
+- Patriartech (Marion Olharan Lagan)
+- Broadband (Claire L. Evans)
 - Your face belong to us (Kashmir Hill)
 - Géopolitique du numérique (Ophélie Coelho)
 - No crypto (Natastasia Hadjadji)
 - Une histoire de la conquête spatiale (Irénée Régnauld, Arnaud Saint-Martin)
 - Techno-critiques (François Jarrige)
-- Broadband (Claire L. Evans)
 - Algorithms of resistance (Tiziano Bonin, Emiliano Treré)
+- Data and democracy at work (Brishen Rogers)
+- Le progrès sans le peuple (David Noble)
+- Coincés dans Zoom (Hubert Guillaud)
+- L'age d'or de la robotique japonaise (Zaven Paré)
+- Your computer is on fire (Thomas S. Mullaney et al.)
 
 ## Politics
 
@@ -80,10 +86,16 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Qu'est-ce que la propriété (Proudhon)
 - La science moderne et l'anarchie (Pierre Kropotkine)
 - Filterworld (Kyle Chayka)
+- 日本は「右傾化」したのか (小熊英二, 樋口直人)
+- 「日本スゴイ」のディストピア (早川タダノリ)
+- パレスチナ解放闘争史 1916-2024 (重信房子)
+- The hundred year's war on Palestine (Rashid Khalidi)
+- The Revolution will not be televised (Noriko Manabe)
 
 ## Ecology
 
 - Half-Earth Socialism (Troy Vettese, Drew Pendergrass)
+- Le capital c'est nous (Hendrik Davi)
 
 ## Urbanism
 
@@ -106,7 +118,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - La logique de l'honneur (Philippe d'Iribarne)
 - The making of monolingual Japan
 - Liberté, inégalité, individualité - La France et le Japon au miroir de l'éducation (Jean-François Sabouret, Daisuke Sonoyama)
-- Imagined Communities (Benedict Anderson)
 - The invention of Tradition (Hobsbawn and Ranger)
 - Mirror of Modernity (Stephen Vlastos)
 - Archaism and actuality (Harry Harootunian)
@@ -119,6 +130,8 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Red planets, Marxism and Science-Fiction (Mark Bould, China Miéville)
 - La domination touristique
 - Controversy mapping (Tommaso Venturini, Anders Kristian Munk)
+- Mute compulsion (Søren Mau)
+- Un désir d'humain (Agnès Giard)
 
 ## Others
 
@@ -133,3 +146,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - アニメーターの仕事がわかる本 (西位輝実)
 - R.U.R. and the vision of artificial life (Karel Čapek + essays edited by Jitka Čejková)
 - Oser, Résister (Jean Malaurie)
+- 女が死ぬ (松田青子)
+- おばちゃんたちのいるところ (松田青子)
+- みどりいせき (太田ステファニー歓人)
+- 新宿駅最後の小さなお店ベルグ (井野明也)

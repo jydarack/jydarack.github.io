@@ -31,7 +31,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - By light alone (Adam Roberts)
 - The digital aesthete (Collectif)
 - Thief of time (Terry Pratchett)
-- The digital Aesthete (collectif / recueil)
 
 ## Tech and tech-criticism
 

@@ -85,12 +85,14 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - 戦う姫、働く少女 (河野真太郎)
 - Qu'est-ce que la propriété (Proudhon)
 - La science moderne et l'anarchie (Pierre Kropotkine)
-- Filterworld (Kyle Chayka)
 - 日本は「右傾化」したのか (小熊英二, 樋口直人)
 - 「日本スゴイ」のディストピア (早川タダノリ)
 - パレスチナ解放闘争史 1916-2024 (重信房子)
 - The hundred year's war on Palestine (Rashid Khalidi)
 - The Revolution will not be televised (Noriko Manabe)
+- 日本は「右傾化」したのか (小熊 英二)
+- 日本人は右傾化したのか: データ分析で実像を読み解く (田辺俊介)
+- Olympics kill the poor (反五輪の会)
 
 ## Ecology
 
@@ -144,7 +146,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Doughnuts economics (Kate Raworth)
 - Une langue venue d'ailleurs (Akira Mizubayashi)
 - アニメーターの仕事がわかる本 (西位輝実)
-- R.U.R. and the vision of artificial life (Karel Čapek + essays edited by Jitka Čejková)
 - Oser, Résister (Jean Malaurie)
 - 女が死ぬ (松田青子)
 - おばちゃんたちのいるところ (松田青子)

@@ -31,6 +31,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - By light alone (Adam Roberts)
 - The digital aesthete (Collectif)
 - Thief of time (Terry Pratchett)
+- King Nyx (Kirsten Bakis)
 
 ## Tech and tech-criticism
 
@@ -66,6 +67,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Coincés dans Zoom (Hubert Guillaud)
 - L'age d'or de la robotique japonaise (Zaven Paré)
 - Your computer is on fire (Thomas S. Mullaney et al.)
+- The eye of the master (Matteo Pasquinelli)
 
 ## Politics
 

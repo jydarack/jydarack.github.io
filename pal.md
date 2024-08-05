@@ -32,7 +32,7 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - The digital aesthete (Collectif)
 - Thief of time (Terry Pratchett)
 - King Nyx (Kirsten Bakis)
-- Roadside Picnic (Arkady and Boris Strugatsky)
+- The book of elsewhere (Keanu Reeves & China Miéville)
 
 ## Tech and tech-criticism
 

@@ -9,7 +9,7 @@ num_pages: 352
 review_lang: en
 ---
 
-Having liked The City and the City by China Miéville, I was eager to read his newer books. And then seeing his latest was written with Keanu Reeves, I had to read it day one. Sometimes, I should read what the book is about before buying it.
+Having liked [The City and the City]({% post_url 2023-03-07-city-and-city %}) by China Miéville, I was eager to read his newer books. And then seeing his latest was written with Keanu Reeves, I had to read it day one. Sometimes, I should read what the book is about before buying it.
 
 ## What is it about?
 

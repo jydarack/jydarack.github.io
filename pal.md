@@ -31,8 +31,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - By light alone (Adam Roberts)
 - The digital aesthete (Collectif)
 - Thief of time (Terry Pratchett)
-- King Nyx (Kirsten Bakis)
-- The book of elsewhere (Keanu Reeves & China Miéville)
 
 ## Tech and tech-criticism
 

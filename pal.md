@@ -63,7 +63,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Algorithms of resistance (Tiziano Bonin, Emiliano Treré)
 - Data and democracy at work (Brishen Rogers)
 - Le progrès sans le peuple (David Noble)
-- Coincés dans Zoom (Hubert Guillaud)
 - L'age d'or de la robotique japonaise (Zaven Paré)
 - Your computer is on fire (Thomas S. Mullaney et al.)
 - The eye of the master (Matteo Pasquinelli)

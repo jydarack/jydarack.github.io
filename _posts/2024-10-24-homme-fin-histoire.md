@@ -2,7 +2,7 @@
 layout: post
 date: "2024-10-24"
 purchase_date: "2024-10-14"
-title:  "L"homme qui mit fin à l'histoire"
+title: "L"homme qui mit fin à l'histoire"
 book_author: "Ken Kiu"
 categories: finished
 num_pages: 107

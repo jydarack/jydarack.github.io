@@ -52,7 +52,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Machine who think (Pamela McCorduck)
 - Ghost Work (Mary L. Gray, Siddarth Suri)
 - Hackers (Steven Levy)
-- Patriartech (Marion Olharan Lagan)
 - Broadband (Claire L. Evans)
 - Your face belong to us (Kashmir Hill)
 - Géopolitique du numérique (Ophélie Coelho)

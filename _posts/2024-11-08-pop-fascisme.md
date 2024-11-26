@@ -45,6 +45,20 @@ Pourtant, ils sont plus jeunes que moi.
 
 J'ai aussi du mal à ce qu'en 2024, les biais de Twitter ne soient pas plus discutés, et la plateforme mise au même niveau que les tréfonds de l'internet comme 4chan ou le 18-25 de JVC.
 
+## Et les objets culturels dans tout ça ?
+
+Je reviens sur cette revue quelques jours plus tard pour y ajouter ce point. Au delà de ce regard centré sur les médias mentionné au paragraphe précédent, je réalise que les différents auteurs, que ce soit ceux de ce livre, [Salomé Saqué]({% post_url 2024-11-22-resister %}), [Stéphanie Lamy]({% post_url 2022-11-20-agora-toxica %}) ou [Achraf Ben Brahim]({% post_url 2023-07-23-extreme-droite-numerique %}) semblent faire l'impasse des cultures populaires et objets associés dans leurs analyse. Internet est pris simplement comme un média, un canal de diffusion et non pas comme un ensemble d'espaces communautaires.
+
+Ce livre qui pourtant me semblait vouloir aborder ces sujets en fait l'impasse. Il est rare qu'un-e internaute, en dehors de celleux dont c'est le sujet de recherche, se connecte pour aller se renseigner sur les derniers éléments de langages de l'extreme droite et aille directement sur les chaînes dont c'est le coeur d'activité.
+
+Par exemple, ils décrivent en détail le parcours, le contenu et les dérives de Baptiste Marchais, a l'extreme droite dès le début, mais ne considèrent pas les dérives de plus en plus prononcées de TiboInShape sur le même segment fitness. Ou l'angle de plus en plus misogynes des vidéos d'un certain influenceur sur le Japon.
+
+J'ai mentionné plus haut l'analyse d'Innuendo Studios sur l'infiltration des communautés. Coté extrême droite américaine, c'est d'ailleurs un sujet théorisé par certaines [communautés évangélistes et pentecôtistes](https://regardsprotestants.com/podcast/evangelisation-ou-reconquete-chretienne-mon-voisin-evangelique-6/) sous le nom de [mandat des 7 montagnes](https://en.wikipedia.org/wiki/Seven_Mountain_Mandate). Les 7 montagnes en question étant 7 secteurs de la société (la famille, la religion, l'éducation, les media, les arts et divertissements, le business et le gouvernement) dont il faudrait *exorciser* les influences démoniaques introduites par tout ce qui n'est pas conforme aux pratiques évangélistes ou à la rigueur chrétiennes fondamentalistes. 
+
+Ils sont notamment [derrière les campagnes de lobbying](https://www.verdict.co.uk/onlyfans-porn/) auprès des plateformes de payment en ligne pour arrêter tout ce qui touche à la nudité ou au travail du sexe. Parmi les 7 montagnes, certaines ciblent directement la culture et les objets culturels. Nombreux étant les créateurs francophones a ~~copier~~ ~~s'inspirer de~~ reprendre les types de vidéos américaines à la mode (quand ce n'est pas se contenter de les traduire simplement) et ou les méthodes pour générer de l'engagement, ils importent également les culture wars qui vont avec.
+
+Comme pour PayPal ou Visa, on pourrait aussi s'interroger sur les effets de ces groupes de pression sur les règles de modération des plateformes, notamment Instagram, ou les contenus évangélistes et/ou mettant en avant les pratiques associées sont mis en avant et/ou servent de référence au reste (tradwives etc...).
+
 ## Le mot de la fin
 
 En soit, le livre propose un tour d'horizon assez complet principaux influenceurs de la fachosphere de 2024 et peut valoir le coup de ce point de vue.

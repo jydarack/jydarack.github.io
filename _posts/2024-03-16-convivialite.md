@@ -2,7 +2,7 @@
 layout: post
 title:  "La convivialité"
 book_author: "Ivan Illich"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 158
 review_lang: fr
 ---

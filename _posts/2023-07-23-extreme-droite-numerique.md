@@ -2,7 +2,7 @@
 layout: post
 title:  "Pourquoi l'extreme droite domine la toile"
 book_author: "Achraf Ben Brahim"
-categories: finished
+categories: "Politics"
 num_pages: 112
 review_lang: fr
 ---

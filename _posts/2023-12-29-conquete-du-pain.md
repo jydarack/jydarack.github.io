@@ -2,7 +2,7 @@
 layout: post
 title:  "La conquête du pain"
 book_author: "Pierre Kropotkine"
-categories: finished
+categories: "Politics"
 num_pages: 262
 review_lang: fr
 ---

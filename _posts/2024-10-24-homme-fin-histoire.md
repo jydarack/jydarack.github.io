@@ -4,7 +4,7 @@ date: "2024-10-24"
 purchase_date: "2024-10-14"
 title: "L'homme qui mit fin à l'histoire"
 book_author: "Ken Liu"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 107
 review_lang: fr
 ---

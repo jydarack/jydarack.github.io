@@ -2,7 +2,7 @@
 layout: post
 title:  "Road to nowhere"
 book_author: "Paris Marx"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

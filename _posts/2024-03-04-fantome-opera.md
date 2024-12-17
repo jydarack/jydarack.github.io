@@ -2,7 +2,7 @@
 layout: post
 title:  "Le fantôme de l'opéra"
 book_author: "Gaston Leroux"
-categories: finished
+categories: "Other"
 num_pages: 343
 review_lang: fr
 ---

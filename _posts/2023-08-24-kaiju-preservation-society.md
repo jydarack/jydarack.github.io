@@ -2,7 +2,7 @@
 layout: post
 title:  "The Kaiju Preservation Society"
 book_author: "John Scalzi"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 258
 review_lang: en
 ---

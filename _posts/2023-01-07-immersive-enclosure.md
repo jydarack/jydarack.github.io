@@ -2,7 +2,7 @@
 layout: post
 title:  "Immersive enclosure"
 book_author: "Paul Roquet"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

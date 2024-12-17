@@ -2,7 +2,7 @@
 layout: post
 title:  "Japon, la face cachée de la perfection"
 book_author: "Karyn Nishimura-Poupée"
-categories: finished
+categories: "Other"
 num_pages: 340
 review_lang: fr
 ---

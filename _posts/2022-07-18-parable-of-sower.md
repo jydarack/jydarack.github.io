@@ -2,7 +2,7 @@
 layout: post
 title:  "Parable of the Sower"
 book_author: "Octavia E. Butler"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: en
 ---
 

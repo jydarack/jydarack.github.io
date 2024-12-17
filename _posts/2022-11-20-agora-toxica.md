@@ -2,7 +2,7 @@
 layout: post
 title:  "Agora Toxica"
 book_author: "Stephanie Lamy"
-categories: finished
+categories: "Politics"
 review_lang: fr
 ---
 

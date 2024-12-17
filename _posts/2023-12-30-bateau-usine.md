@@ -2,7 +2,7 @@
 layout: post
 title:  "Le bateau-usine"
 book_author: "Takiji Kobayashi"
-categories: finished
+categories: "Other"
 num_pages: 161
 review_lang: fr
 ---

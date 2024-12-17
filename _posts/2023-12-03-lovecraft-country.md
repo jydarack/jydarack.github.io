@@ -2,7 +2,7 @@
 layout: post
 title:  "Lovecraft Country"
 book_author: "Matt Ruff"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 372
 review_lang: en
 ---

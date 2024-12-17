@@ -4,7 +4,7 @@ date: "2024-09-27"
 purchase_date: "2024-09-16"
 title:  "Trop semblable à l'éclair"
 book_author: "Ada Palmer"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 873
 review_lang: fr
 ---

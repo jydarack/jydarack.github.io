@@ -4,7 +4,7 @@ date: "2024-04-22"
 purchase_date: "2024-03-22"
 title:  "Against Technoableism"
 book_author: "Ashley Shew"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 132
 review_lang: en
 ---

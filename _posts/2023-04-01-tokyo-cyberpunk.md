@@ -2,7 +2,7 @@
 layout: post
 title:  "Tokyo Cyberpunk"
 book_author: "Steven Brown"
-categories: finished
+categories: "Other"
 review_lang: en
 ---
 

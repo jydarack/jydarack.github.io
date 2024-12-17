@@ -4,7 +4,7 @@ date: "2024-04-30"
 purchase_date: "2022-07-20"
 title:  "Breaking things at work"
 book_author: "Gavin Mueller"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 136
 review_lang: en
 ---

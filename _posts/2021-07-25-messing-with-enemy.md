@@ -2,7 +2,7 @@
 layout: post
 title:  "Messing with the enemy"
 book_author: "Clint Watts"
-categories: finished
+categories: "Politics"
 review_lang: en
 ---
 

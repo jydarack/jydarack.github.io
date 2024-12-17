@@ -4,7 +4,7 @@ date: "2024-11-04"
 purchase_date: "2024-09-16"
 title:  "Droitisation française, mythe et réalités"
 book_author: "Vincent Tiberj"
-categories: finished
+categories: "Politics"
 num_pages: 310
 review_lang: fr
 ---

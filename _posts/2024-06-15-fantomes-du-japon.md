@@ -4,7 +4,7 @@ date: "2024-06-15"
 purchase_date: "2023-06-11"
 title:  "Fantômes du Japon"
 book_author: "Lafcadio Hearn"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 394
 review_lang: fr
 ---

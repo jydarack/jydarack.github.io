@@ -2,7 +2,7 @@
 layout: post
 title:  "Chokepoint Capitalism"
 book_author: "R. Giblin, C. Doctorow"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 260
 review_lang: en
 ---

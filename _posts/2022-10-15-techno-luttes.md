@@ -2,7 +2,7 @@
 layout: post
 title:  "Techno-luttes - Enquetes sur ceux qui résistent a la technologie"
 book_author: "F. Benoit, N. Celnik"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: fr
 ---
 

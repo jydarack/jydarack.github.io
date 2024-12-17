@@ -4,7 +4,7 @@ date: "2024-10-11"
 purchase_date: "2023-09-16"
 title:  "La gauche peut-elle combattre le néolibéralisme ?"
 book_author: "David Cayla"
-categories: finished
+categories: "Politics"
 num_pages: 179 
 review_lang: fr
 ---

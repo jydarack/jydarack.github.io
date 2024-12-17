@@ -2,7 +2,7 @@
 layout: post
 title:  "How to build a girl"
 book_author: "Caitlin Moran"
-categories: finished
+categories: "Other"
 num_pages: 343
 review_lang: en
 ---

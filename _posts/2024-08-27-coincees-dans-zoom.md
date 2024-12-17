@@ -4,7 +4,7 @@ date: "2024-08-27"
 purchase_date: "2024-06-29"
 title:  "Coincés dans Zoom"
 book_author: "Hubert Guillaud"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 186
 review_lang: fr
 ---

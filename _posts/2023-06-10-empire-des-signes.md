@@ -2,7 +2,7 @@
 layout: post
 title:  "L'empire des signes"
 book_author: "Roland Barthes"
-categories: finished
+categories: "Other"
 num_pages: 120
 review_lang: fr
 ---

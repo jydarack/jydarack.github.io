@@ -4,7 +4,7 @@ date: "2024-07-02"
 purchase_date: "2024-06-29"
 title:  "Dix questions sur l'antifascisme"
 book_author: "La Horde"
-categories: finished
+categories: "Politics"
 num_pages: 191
 review_lang: fr
 ---

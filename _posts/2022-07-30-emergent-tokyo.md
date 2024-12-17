@@ -2,7 +2,7 @@
 layout: post
 title:  "Emergent Tokyo"
 book_author: "Jorge Almazan"
-categories: finished
+categories: "Urbanism"
 review_lang: en
 ---
 

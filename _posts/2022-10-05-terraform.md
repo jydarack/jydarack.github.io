@@ -2,7 +2,7 @@
 layout: post
 title:  "Terraform"
 book_author: "Collectif"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: en
 ---
 

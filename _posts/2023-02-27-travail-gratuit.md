@@ -2,7 +2,7 @@
 layout: post
 title:  "Travail gratuit : la nouvelle exploitation ?"
 book_author: "Maud Simonet"
-categories: finished
+categories: "Sociology"
 review_lang: fr
 ---
 

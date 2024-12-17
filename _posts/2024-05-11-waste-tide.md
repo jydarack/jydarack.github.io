@@ -4,7 +4,7 @@ date: "2024-05-11"
 purchase_date: "2024-03-22"
 title:  "Waste Tide"
 book_author: "Chen Qiufan"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 436
 review_lang: en
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Terraformers"
 book_author: "Annalee Newitz"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 335
 review_lang: en
 ---

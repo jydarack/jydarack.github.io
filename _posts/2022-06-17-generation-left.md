@@ -2,7 +2,7 @@
 layout: post
 title:  "Generation left"
 book_author: "Keir Milburn"
-categories: finished
+categories: "Politics"
 review_lang: en
 ---
 

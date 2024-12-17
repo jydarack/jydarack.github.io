@@ -2,7 +2,7 @@
 layout: post
 title:  "Stop thinking like a freelancer"
 book_author: "Liam Veitch"
-categories: Finished
+categories: "Other"
 review_lang: en
 ---
 

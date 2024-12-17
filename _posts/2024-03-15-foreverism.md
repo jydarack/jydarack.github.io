@@ -2,7 +2,7 @@
 layout: post
 title:  "Foreverism"
 book_author: "Grafton Tanner"
-categories: finished
+categories: "Other"
 num_pages: 118
 review_lang: en
 ---

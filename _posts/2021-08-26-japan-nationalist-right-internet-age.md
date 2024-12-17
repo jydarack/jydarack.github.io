@@ -2,7 +2,7 @@
 layout: post
 title:  "Japan's nationalist right in the internet age"
 book_author: "Jeffrey J. Hall"
-categories: finished
+categories: "Politics"
 review_lang: en
 ---
 

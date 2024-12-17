@@ -2,7 +2,7 @@
 layout: post
 title:  "Monstrous regiment"
 book_author: "Terry Pratchett"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 474
 review_lang: en
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Permanent Record"
 book_author: "Edward Snowden"
-categories: finished
+categories: "Other"
 review_lang: en
 ---
 

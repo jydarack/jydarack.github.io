@@ -4,7 +4,7 @@ date: "2024-08-15"
 purchase_date: "2024-07-23"
 title:  "The book of elsewhere"
 book_author: "Keanu Reeves, China Miéville"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 352
 review_lang: en
 ---

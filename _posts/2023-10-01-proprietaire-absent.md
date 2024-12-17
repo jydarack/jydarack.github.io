@@ -2,7 +2,7 @@
 layout: post
 title:  "Le propriétaire absent"
 book_author: "Takiji Kobayashi"
-categories: finished
+categories: "Other"
 num_pages: 202
 review_lang: fr
 ---

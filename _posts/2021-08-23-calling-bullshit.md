@@ -2,7 +2,7 @@
 layout: post
 title:  "Calling Bullshit: The Art of Skepticism in a Data-Driven World"
 book_author: "Carl Bergstrom, Jevin D. West"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

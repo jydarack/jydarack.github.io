@@ -2,7 +2,7 @@
 layout: post
 title:  "The politics of Bitcoin - Software as right-wing extremism"
 book_author: "David Golumbia"
-categories: finished
+categories: "Politics"
 review_lang: en
 ---
 

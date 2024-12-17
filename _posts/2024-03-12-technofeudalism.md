@@ -2,7 +2,7 @@
 layout: post
 title:  "Technofeudalism"
 book_author: "Yanis Varoufakis"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 214
 review_lang: en
 ---

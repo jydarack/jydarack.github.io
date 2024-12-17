@@ -2,7 +2,7 @@
 layout: post
 title:  "Red Team Blues"
 book_author: "Cory Doctorow"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 212
 review_lang: en
 ---

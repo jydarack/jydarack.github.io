@@ -4,7 +4,7 @@ date: "2024-05-18"
 purchase_date: "2019-12-20"
 title:  "Le dernier empire de la presse"
 book_author: "César Castellvi"
-categories: finished
+categories: "Sociology"
 num_pages: 266
 review_lang: fr
 ---

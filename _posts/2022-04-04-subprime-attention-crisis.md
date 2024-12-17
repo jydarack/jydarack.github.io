@@ -2,7 +2,7 @@
 layout: post
 title:  "Subprime attention crisis"
 book_author: "Tim Hwang"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

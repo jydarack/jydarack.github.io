@@ -2,7 +2,7 @@
 layout: post
 title:  "Lettre aux ingénieurs qui doutent"
 book_author: "Olivier Lefebvre"
-categories: finished
+categories: "Politics"
 num_pages: 138
 review_lang: fr
 ---

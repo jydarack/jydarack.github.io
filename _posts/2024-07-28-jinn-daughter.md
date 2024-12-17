@@ -4,7 +4,7 @@ date: "2024-07-28"
 purchase_date: "2024-07-26"
 title:  "The Jinn daughter"
 book_author: "Rania Hanna"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 264
 review_lang: en
 ---

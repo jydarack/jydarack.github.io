@@ -2,7 +2,7 @@
 layout: post
 title:  "Robo Sapiens Japanicus"
 book_author: "Jennifer Robertson"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

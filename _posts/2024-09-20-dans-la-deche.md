@@ -4,7 +4,7 @@ date: "2024-09-20"
 purchase_date: "2024-09-16"
 title:  "Dans la dèche à Paris et à Londres"
 book_author: "George Orwell"
-categories: finished
+categories: "Other"
 num_pages: 291
 review_lang: fr
 ---

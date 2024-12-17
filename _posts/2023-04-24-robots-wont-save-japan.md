@@ -2,7 +2,7 @@
 layout: post
 title:  "Robots won't save Japan"
 book_author: "James Wright"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

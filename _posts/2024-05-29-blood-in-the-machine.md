@@ -4,7 +4,7 @@ date: "2024-05-29"
 purchase_date: "2023-10-06"
 title:  "Blood in the Machine"
 book_author: "Brian Merchant"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 412
 review_lang: en
 ---

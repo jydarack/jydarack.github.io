@@ -2,7 +2,7 @@
 layout: post
 title:  "Tokyo Crush"
 book_author: "Vanessa Montalbano"
-categories: finished
+categories: "Other"
 num_pages: 198
 review_lang: fr
 ---

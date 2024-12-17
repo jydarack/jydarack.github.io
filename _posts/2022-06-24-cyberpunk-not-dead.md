@@ -2,7 +2,7 @@
 layout: post
 title:  "Cyberpunk is not dead"
 book_author: "Yannick Rumpala"
-categories: finished
+categories: "Other"
 review_lang: fr
 ---
 

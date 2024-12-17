@@ -4,7 +4,7 @@ date: "2024-11-14"
 purchase_date: "2024-11-03"
 title:  "White cat, black dog"
 book_author: "Kelly Link"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 256
 review_lang: en
 ---

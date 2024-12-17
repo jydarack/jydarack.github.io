@@ -18,11 +18,9 @@ title: 1F4DA
 description: >- # this means to ignore newlines until "baseurl:"
   Random notes on books
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://1f4da.achikochi.tokyo" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://1f4da.achikochi.tokyo" # the base hostname & protocol for your site, e.g. http://example.com
 author: jydarack
 twitter_username: jydarack
-# github_username: jydarack
-# google_analytics: UA-91612612-6
 
 # Build settings
 markdown: kramdown
@@ -30,9 +28,21 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+
+jekyll-archives:
+  enabled: [year, categories]
+  layouts: 
+    category: category-archive
+    year: year-archive
+  permalinks:
+    year: '/:year/'
+    category: '/:name/'
 
 # Changing standard permalink structure
 permalink: /:year/:title
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

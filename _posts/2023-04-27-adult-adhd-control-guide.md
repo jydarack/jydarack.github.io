@@ -2,7 +2,7 @@
 layout: post
 title:  "大人のADHDコントロールガイド"
 book_author: "福西"
-categories: finished
+categories: "Other"
 review_lang: en
 ---
 

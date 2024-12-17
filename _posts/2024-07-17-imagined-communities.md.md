@@ -4,7 +4,7 @@ date: "2024-07-17"
 purchase_date: "2023-05-10"
 title:  "Imagined communities"
 book_author: "Benedict Anderson"
-categories: finished
+categories: "Politics"
 num_pages: 206
 review_lang: en
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Automation and the future of work"
 book_author: "Aaron Benanav"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

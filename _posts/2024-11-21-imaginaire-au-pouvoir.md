@@ -4,7 +4,7 @@ date: "2024-11-21"
 purchase_date: "2024-10-07"
 title:  "L'imaginaire au pouvoir"
 book_author: "Vincent Gerber"
-categories: finished
+categories: "Sociology"
 num_pages: 147
 review_lang: fr
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Metro Paris 2033 - Cité"
 book_author: "Pierre Bordage"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: en
 ---
 

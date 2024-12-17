@@ -4,7 +4,7 @@ date: "2024-10-29"
 purchase_date: "2023-09-16"
 title:  "Patriartech"
 book_author: "Marion Olharan Lagan"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 219
 review_lang: fr
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Tokyo, the city at the end of the world"
 book_author: "Peter Popham"
-categories: finished
+categories: "Urbanism"
 review_lang: en
 ---
 

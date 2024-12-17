@@ -2,7 +2,7 @@
 layout: post
 title:  "The city & the city"
 book_author: "China Miéville"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: en
 ---
 

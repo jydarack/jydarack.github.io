@@ -2,7 +2,7 @@
 layout: post
 title:  "Ministry for the Future"
 book_author: "Kim Stanley Robinson"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 576
 review_lang: en
 ---

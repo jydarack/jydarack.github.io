@@ -2,7 +2,7 @@
 layout: post
 title:  "Python testing with pytest"
 book_author: "Bryan Okken"
-categories: reading
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

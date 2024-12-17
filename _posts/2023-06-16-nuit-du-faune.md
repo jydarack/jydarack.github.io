@@ -2,7 +2,7 @@
 layout: post
 title:  "La nuit du faune"
 book_author: "Romain Lucazeau"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 250
 review_lang: fr
 ---

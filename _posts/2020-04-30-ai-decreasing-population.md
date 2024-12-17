@@ -2,7 +2,7 @@
 layout: post
 title:  "AI x Decreasing Population"
 book_author: "Keisuke Nakahara"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

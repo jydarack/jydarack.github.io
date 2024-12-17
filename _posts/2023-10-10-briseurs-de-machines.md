@@ -2,7 +2,7 @@
 layout: post
 title:  "Les briseurs de machines"
 book_author: "Nicolas Chevassus-au-Louis"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 264
 review_lang: fr
 ---

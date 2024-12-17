@@ -2,7 +2,7 @@
 layout: post
 title:  "When McKinsey comes to town"
 book_author: "W. Bogdanich, M. Forsythe"
-categories: finished
+categories: "Sociology"
 review_lang: en
 ---
 

@@ -4,7 +4,7 @@ date: "2024-07-23"
 purchase_date: "2024-02-23"
 title:  "Filterworld"
 book_author: "Kyle Chayka"
-categories: finished
+categories: "Politics"
 num_pages: 280
 review_lang: en
 ---

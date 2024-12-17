@@ -4,7 +4,7 @@ date: "2024-04-18"
 purchase_date: "2024-03-09"
 title:  "Klara and the Sun"
 book_author: "Kazuo Ishiguro"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 340
 review_lang: en
 ---

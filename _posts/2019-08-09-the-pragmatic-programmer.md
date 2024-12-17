@@ -2,7 +2,7 @@
 layout: post
 title:  "The Pragmatic Programmer"
 book_author: "Andrew Hunt, David Thomas"
-categories: reading
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

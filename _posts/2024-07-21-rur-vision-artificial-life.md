@@ -4,7 +4,7 @@ date: "2024-07-21"
 purchase_date: "2024-02-23"
 title:  "R.U.R. and the vision of artificial life"
 book_author: "Karel Čapek, Jitka Čejková"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 267
 review_lang: en
 ---

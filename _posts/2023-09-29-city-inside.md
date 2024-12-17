@@ -2,7 +2,7 @@
 layout: post
 title:  "The city inside"
 book_author: "Samit Basu"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 260
 review_lang: en
 ---

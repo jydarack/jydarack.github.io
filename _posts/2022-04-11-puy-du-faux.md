@@ -2,7 +2,7 @@
 layout: post
 title:  "Le Puy du Faux"
 book_author: "Florian Besson, Mathilde Larrère, Pauline Ducret, Guillaume Lancereau"
-categories: finished
+categories: "Sociology"
 review_lang: fr
 ---
 

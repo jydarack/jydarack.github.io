@@ -4,7 +4,7 @@ date: "2024-10-13"
 purchase_date: "2024-09-16"
 title:  "Refuser de parvenir"
 book_author: "CIRA Lausanne"
-categories: finished
+categories: "Politics"
 num_pages: 189
 review_lang: fr
 ---

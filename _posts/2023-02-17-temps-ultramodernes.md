@@ -2,7 +2,7 @@
 layout: post
 title:  "Les temps ultramodernes"
 book_author: "Laurent Genefort"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: fr
 ---
 

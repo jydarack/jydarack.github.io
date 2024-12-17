@@ -2,7 +2,7 @@
 layout: post
 title:  "Zen and the art of motorcycle maintenance"
 book_author: "Robert Pirsig"
-categories: reading
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Manuel de cartographie"
 book_author: "Nicolas Lambert, Christine Zanin"
-categories: finished
+categories: "Urbanism"
 review_lang: fr
 ---
 

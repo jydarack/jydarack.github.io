@@ -2,7 +2,7 @@
 layout: post
 title:  "家族から放置されて、大人になりました"
 book_author: "ネコゼ・モンズースー"
-categories: finished
+categories: "Other"
 review_lang: en
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Every tool's a hammer"
 book_author: "Adam Savage"
-categories: finished
+categories: "Other"
 review_lang: en
 ---
 

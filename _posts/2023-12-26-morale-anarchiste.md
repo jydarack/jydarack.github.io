@@ -2,7 +2,7 @@
 layout: post
 title:  "La morale anarchiste"
 book_author: "Pierre Kropotkine"
-categories: finished
+categories: "Politics"
 num_pages: 73
 review_lang: fr
 ---

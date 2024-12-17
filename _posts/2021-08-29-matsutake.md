@@ -2,7 +2,7 @@
 layout: post
 title:  "The Mushroom at the End of the World"
 book_author: "Anna Lowenhaupt Tsing"
-categories: finished
+categories: "Sociology"
 review_lang: en
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The art of statistics"
 book_author: "David Spiegelhalter"
-categories: finished
+categories: "Other"
 review_lang: en
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Internet Con"
 book_author: "Cory Doctorow"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 174
 review_lang: en
 ---

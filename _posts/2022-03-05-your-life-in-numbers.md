@@ -2,7 +2,7 @@
 layout: post
 title:  "Your life in numbers: Modeling society through data"
 book_author: "Pablo Jensen"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

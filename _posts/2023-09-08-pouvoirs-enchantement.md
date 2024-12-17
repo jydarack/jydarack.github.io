@@ -2,7 +2,7 @@
 layout: post
 title:  "Les pouvoirs de l'enchantement"
 book_author: "Anne Besson"
-categories: finished
+categories: "Sociology"
 num_pages: 181
 review_lang: fr
 ---

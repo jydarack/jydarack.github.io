@@ -2,7 +2,7 @@
 layout: post
 title:  "The dispossessed"
 book_author: "Ursula K. Le Guin"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 260
 review_lang: en
 ---

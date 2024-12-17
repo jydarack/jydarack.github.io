@@ -4,7 +4,7 @@ date: "2024-06-27"
 purchase_date: "2023-06-11"
 title:  "The left hand of darkness"
 book_author: "Ursula K. Le Guin"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 300
 review_lang: en
 ---

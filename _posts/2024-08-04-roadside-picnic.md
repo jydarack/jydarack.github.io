@@ -4,7 +4,7 @@ date: "2024-08-04"
 purchase_date: "2024-07-26"
 title:  "Roadside picnic"
 book_author: "Arkady & Boris Strugatsky"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 209
 review_lang: en
 ---

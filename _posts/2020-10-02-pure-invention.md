@@ -2,7 +2,7 @@
 layout: post
 title:  "Pure Invention"
 book_author: "Matt Alt"
-categories: finished
+categories: "Sociology"
 review_lang: en
 ---
 

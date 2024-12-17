@@ -2,7 +2,7 @@
 layout: post
 title:  "A city on Mars"
 book_author: "Kelly & Zach Weinersmith"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 388
 review_lang: en
 ---

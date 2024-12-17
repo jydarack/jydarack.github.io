@@ -2,7 +2,7 @@
 layout: post
 title:  "Le syndrome Magneto"
 book_author: "Benjamin Patinaud"
-categories: finished
+categories: "Sociology"
 num_pages: 419
 review_lang: fr
 ---

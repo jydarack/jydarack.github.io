@@ -2,7 +2,7 @@
 layout: post
 title:  "Forward the Foundation"
 book_author: "Isaac Asimov"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: en
 ---
 

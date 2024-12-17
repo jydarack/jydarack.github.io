@@ -2,7 +2,7 @@
 layout: post
 title:  "When we cease to understand the world"
 book_author: "Benjamin Labatut"
-categories: finished
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

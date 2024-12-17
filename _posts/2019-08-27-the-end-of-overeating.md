@@ -2,7 +2,7 @@
 layout: post
 title:  "The end of overeating"
 book_author: "David Kessler"
-categories: finished
+categories: "Other"
 review_lang: en
 ---
 

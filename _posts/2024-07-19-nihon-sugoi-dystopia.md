@@ -4,7 +4,7 @@ date: "2024-07-19"
 purchase_date: "2024-07-17"
 title:  "「日本スゴイ」のディストピア"
 book_author: "早川タダノリ"
-categories: finished
+categories: "Politics"
 num_pages: 280
 review_lang: fr
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ruin and Rising"
 book_author: "Leigh Bardugo"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: en
 ---
 

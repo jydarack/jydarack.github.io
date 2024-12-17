@@ -2,7 +2,7 @@
 layout: post
 title:  "How to blow up a pipeline"
 book_author: "Andreas Malm"
-categories: finished
+categories: "Ecology"
 review_lang: en
 ---
 

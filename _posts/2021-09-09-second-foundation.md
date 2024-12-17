@@ -2,7 +2,7 @@
 layout: post
 title:  "Second Foundation"
 book_author: "Isaac Asimov"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: en
 ---
 

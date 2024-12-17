@@ -2,7 +2,7 @@
 layout: post
 title:  "Termination shock"
 book_author: "Neal Stephenson"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: en
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ideology and the virtual city"
 book_author: "Jon Bailes"
-categories: finished
+categories: "Urbanism"
 num_pages: 89
 review_lang: en
 ---

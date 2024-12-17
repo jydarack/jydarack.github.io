@@ -2,7 +2,7 @@
 layout: post
 title:  This is not propaganda"
 book_author: "Peter Pomerantsev"
-categories: finished
+categories: "Politics"
 review_lang: en
 ---
 I picked this book after hearing about it in one podcast. Or was it on Twitter ? Anyway. I was looking at what is happening in China vis a vis Hong Kong and the technics used by the French far right to recruit new members or spam public discourse and was looking into learning more.

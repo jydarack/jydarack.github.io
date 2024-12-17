@@ -2,7 +2,7 @@
 layout: post
 title:  "A Memory Called Empire"
 book_author: "Arkady Martine"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: en
 ---
 

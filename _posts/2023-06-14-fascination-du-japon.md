@@ -2,7 +2,7 @@
 layout: post
 title:  "La fascination du Japon"
 book_author: "Philippe Pelletier"
-categories: finished
+categories: "Sociology"
 num_pages: 320
 review_lang: fr
 ---

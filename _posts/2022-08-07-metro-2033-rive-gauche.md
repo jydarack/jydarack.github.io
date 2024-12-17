@@ -2,7 +2,7 @@
 layout: post
 title:  "Metro Paris 2033 - Rive gauche"
 book_author: "Pierre Bordage"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 review_lang: fr
 ---
 

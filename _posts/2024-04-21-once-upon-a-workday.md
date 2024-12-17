@@ -4,7 +4,7 @@ date: "2024-04-21"
 purchase_date: "2024-04-20"
 title:  "Once upon a workday"
 book_author: "Elizabeth Pich, Jonathan Kunz"
-categories: finished
+categories: "Other"
 num_pages: 55
 review_lang: en
 ---

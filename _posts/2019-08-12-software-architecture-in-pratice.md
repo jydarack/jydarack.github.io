@@ -2,7 +2,7 @@
 layout: post
 title:  "Software Architecture in Practice"
 book_author: "Len Bass, Paul Clements, Rick Kazman"
-categories: reading
+categories: "Tech&Tech-criticism"
 review_lang: en
 ---
 

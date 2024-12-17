@@ -2,7 +2,7 @@
 layout: post
 title:  "This is how you lose the time war"
 book_author: "A. El-Mothar, M. Gladstone"
-categories: finished
+categories: "Sci-Fi&Fantasy"
 num_pages: 198
 review_lang: en
 ---

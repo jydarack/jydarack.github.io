@@ -4,7 +4,7 @@ date: "2024-11-08"
 purchase_date: "2024-10-07"
 title:  "Pop fascisme"
 book_author: "Pierre Plottu, Maxime Macé"
-categories: finished
+categories: "Politics"
 num_pages: 141
 review_lang: fr
 ---

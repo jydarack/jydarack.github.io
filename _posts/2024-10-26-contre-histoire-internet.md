@@ -4,7 +4,7 @@ date: "2024-10-26"
 purchase_date: "2023-11-25"
 title:  "Contre-histoire d'internet"
 book_author: "Félix Tréguer"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 439
 review_lang: fr
 ---

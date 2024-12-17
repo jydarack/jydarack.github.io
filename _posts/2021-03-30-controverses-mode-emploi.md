@@ -2,7 +2,7 @@
 layout: post
 title:  "Controverses mode d'emploi"
 book_author: "Collectif"
-categories: finished
+categories: "Other"
 review_lang: fr
 ---
 

@@ -4,7 +4,7 @@ date: "2024-07-16"
 purchase_date: "2024-06-29"
 title:  "Technologies partout, démocratie nulle part"
 book_author: "Yaël Benayoun, Irénée Régnauld"
-categories: finished
+categories: "Tech&Tech-criticism"
 num_pages: 233
 review_lang: fr
 ---

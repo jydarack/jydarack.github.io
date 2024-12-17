@@ -4,7 +4,7 @@ date: "2024-11-07"
 purchase_date: "2024-10-07"
 title:  "Atlas inutile de Paris"
 book_author: "Vincent Périat"
-categories: finished
+categories: "Urbanism"
 num_pages: 100
 review_lang: fr
 ---

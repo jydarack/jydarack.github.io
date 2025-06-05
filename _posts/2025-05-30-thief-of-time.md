@@ -6,7 +6,7 @@ title: "Thief of Time"
 book_author: "Terry Pratchett"
 categories: "Sci-Fi&Fantasy"
 num_pages: 228
-review_lang: fr
+review_lang: en
 ---
 
 One of my favourite Discworld books. Same as with Monstrous Regiment, I bought the new Death Edition, with it's nice new cover.

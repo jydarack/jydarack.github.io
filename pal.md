@@ -30,7 +30,6 @@ I'll try to keep this list updated but do not keep your hopes too high.
 - Shogun (James Clavell)
 - By light alone (Adam Roberts)
 - The digital aesthete (Collectif)
-- Thief of time (Terry Pratchett)
 
 ## Tech and tech-criticism
 

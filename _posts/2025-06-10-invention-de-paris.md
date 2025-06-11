@@ -13,13 +13,13 @@ Acheté lors d'un passage à Paris peu après la mort d'Éric Hazan en 2024.
 
 ## De quoi ça parle
 
-Le livre est divisé en trois partie. Le cœur du livre est son *Chemin de ronde*, récit autant temporel que spatial, suivant le développement de Paris en passant par chaque arrondissement, revenant sur les différents murs d'enceinte, les faubourgs etc.
+Le livre est divisé en trois parties. Le cœur du livre est son *Chemin de ronde*, récit autant temporel que spatial, suivant le développement de Paris en passant par chaque arrondissement, revenant sur les différents murs d'enceinte, les faubourgs etc.
 
 C'est aussi passionnant que difficile d'accès, Éric Hazan faisant appel à sa connaissance impressionnante des rues de Paris, de leurs anciens noms et des rues qui les ont remplacées mais aussi un savoir encyclopédique des auteurs et artistes de chaque époque. À lire avec une carte (ou plusieurs si vous avez des cartes historiques sous la main) et une encyclopédie littéraire et artistique à portée de main.
 
 La seconde partie, *Paris rouge*, revient sur les différentes révolutions et insurrections ayant émaillé le XIXe et le XXe siècle, de 1830 à 1968, en prenant la barricade comme symbole et fil conducteur. Là encore, il émaille son récit de très nombreuses références et extraits d'auteurs et artistes contemporains, liant révolte, politique et portrait de parisien-nes.
 
-La dernière partie, *Traversant de Paris le fourmillant tableau...* est plus une réflexion sur la place de Paris dans l'art. Dans la littérature et la poésie dans son chapitre *Les flâneurs*, notamment en tant qu'inspiration pour des personnages ou des lieux, mais en tant que sujet en tant que tel pour la peinture puis la photographie dans *Les belles images*. J'ai presque passé autant de temps à lire ce dernier chapitre (d'une quarantaine de pages) qu'à regarder sur internet les différents tableaux ou photos qu'il mentionne, cette fois encore, le support visuel était plus que bienvenu, même s'il dresse souvent (ou cite des contemporants faisant) des descriptions détaillées des œuvres et vues en question.
+La dernière partie, *Traversant de Paris le fourmillant tableau...* est plus une réflexion sur la place de Paris dans l'art. Dans la littérature et la poésie dans son chapitre *Les flâneurs*, notamment en tant qu'inspiration pour des personnages ou des lieux, mais aussi en tant que sujet en tant que tel pour la peinture puis la photographie dans *Les belles images*. J'ai presque passé autant de temps à lire ce dernier chapitre (d'une quarantaine de pages) qu'à regarder sur internet les différents tableaux ou photos qu'il mentionne, cette fois encore, le support visuel était plus que bienvenu, même s'il dresse souvent (ou cite des contemporains faisant) des descriptions détaillées des œuvres et vues en question.
 
 ## Mais encore ?
 

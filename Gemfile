@@ -12,6 +12,7 @@ source "https://rubygems.org"
 gem "csv"
 gem "base64"
 gem "bigdecimal"
+gem "sassc"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima"

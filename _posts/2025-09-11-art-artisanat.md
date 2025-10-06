@@ -1,0 +1,28 @@
+---
+layout: post
+date: "2025-09-11"
+purchase_date: "2024-06-19"
+title: "L'art et l'artisanat"
+book_author: "William Morris"
+categories: "Sci-Fi&Fantasy"
+num_pages: 199
+review_lang: en
+---
+
+Bought after seing suite à few recommandations and being intrigued of novellas.
+
+## What is it about?
+
+Difficult here tonot copy what’s on the back of the book. Binti is Himba, a people bound to and with strong ties to its land. Except her mathematical prowesses just earned her a place in the best university in the galaxy. And she wants to go.
+
+Except her ship is attacked en route by Meduse, and everyone is killed except her. She now has to find a way to survive and find a way out of the situation. For she is a master harmoniser, one who brings peace.
+
+## A bit more
+
+Maths as magic? Count me in!
+
+Overall, the sci-fi elements take a back seat in the story. Acceptation, of oneself, the other and of change is the core of the 4 novellas making up this trilogy (don’t ask).
+
+## Final word
+
+Great feel-good read. Not all novellas are of the same quality or rhythm but as a whole, it’s a very well balanced story, exploring some elements while letting a bunch of others still unexplained.

@@ -24,3 +24,5 @@ One of the recent cozy fantasy books of the moment, including the characters reg
 Not much to say in this review. I liked the setting, the characters, the story and read through the book in a few days.
 
 Is good, read it.
+
+A bit disappointed that this is the first book of a serie and not a standalone book. The story is finished. Why want to extract more money from it? Are you alienated to your publisher like mangakas?

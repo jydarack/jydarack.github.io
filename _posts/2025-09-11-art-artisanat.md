@@ -6,23 +6,21 @@ title: "L'art et l'artisanat"
 book_author: "William Morris"
 categories: "Sci-Fi&Fantasy"
 num_pages: 199
-review_lang: en
+review_lang: fr
 ---
 
-Bought after seing suite à few recommandations and being intrigued of novellas.
+Livre pioché après avoir vu l’excellente [vidéo d’Architekton sur le mouvement Art & Craft](https://www.youtube.com/watch?v=9GUvk9myOeQ).
 
-## What is it about?
+## De quoi ça parle ?
 
-Difficult here tonot copy what’s on the back of the book. Binti is Himba, a people bound to and with strong ties to its land. Except her mathematical prowesses just earned her a place in the best university in the galaxy. And she wants to go.
+A un niveau simple : comment remettre de l’art dans le travail lui redonnerait du sens. Ou l’inverse. Et comment le système capitaliste ne permet pas cette approche et donc écrase ce besoin humain du beau geste ou du beau.
 
-Except her ship is attacked en route by Meduse, and everyone is killed except her. She now has to find a way to survive and find a way out of the situation. For she is a master harmoniser, one who brings peace.
+## Mais encore ?
 
-## A bit more
+En soit, c’est une lecture de plus dans la lignée de Lettre aux ingénieurs qui doutent et tout le questionnement au cœur de mon burn-out actuel.
 
-Maths as magic? Count me in!
+Remettre le savoir faire au cœur du travail. Ne pas se concentrer sur la compétitivité ou le profit mais sur le besoin réel de l’utilisateur. Bref, remettre l’Humain au cœur de la machine travail.
 
-Overall, the sci-fi elements take a back seat in the story. Acceptation, of oneself, the other and of change is the core of the 4 novellas making up this trilogy (don’t ask).
+## Le mot de la fin
 
-## Final word
-
-Great feel-good read. Not all novellas are of the same quality or rhythm but as a whole, it’s a very well balanced story, exploring some elements while letting a bunch of others still unexplained.
+Un style ampoulé, y compris dans la traduction, qui peut perdre par moment, mais des idées intéressantes. Dur de constater que 140 ans plus tard, la situation n’a pas changé.

@@ -5,7 +5,7 @@ purchase_date: "2025-09-21"
 title: "Dictionnaire anarchiste des enfants"
 book_author: "Jorge Enkis"
 categories: "Politics"
-num_pages: 16075
+num_pages: 75
 review_lang: fr
 ---
 

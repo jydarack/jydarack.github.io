@@ -7,6 +7,7 @@ book_author: "Olivier Ansart"
 categories: "Others"
 num_pages: 184
 review_lang: fr
+couverture: paraitre-pretendre.jpg
 ---
 
 Pris sur la librairie d'Anna après l'avoir vu mentionné comme source de qualité dans un fil sur Bluesky.

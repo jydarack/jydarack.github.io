@@ -7,6 +7,7 @@ book_author: "Vanessa Montalbano"
 categories: "Others"
 num_pages: 116
 review_lang: fr
+couverture: vu-harajuku.jpg
 ---
 
 Comment voulez-vous que je m'en sorte parmi toutes mes piles de livres en cours quand une amie m'offre son dernier livre ? Évidemment que je vais le lire dans la foulée.

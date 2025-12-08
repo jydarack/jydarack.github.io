@@ -31,3 +31,18 @@
     font-style: italic;
     margin-top: -15px;
 }
+
+ul.post-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+
+    li{
+        aspect-ratio: 0.75;
+
+        img{
+            object-fit: cover;
+            aspect-ratio: 0.75;
+        }
+    }
+}

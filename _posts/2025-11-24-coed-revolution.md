@@ -7,6 +7,7 @@ book_author: "Chelsea Szendi Schieder"
 categories: "Politics"
 num_pages: 224
 review_lang: en
+couverture: coed-revolution.webp
 ---
 
 I was reading another book (The red years) on the topic of the 1968-69 student protests but I wanted to further my reading of [Tokyo 68]({% post_url 2025-11-04-tokyo-68 %}) by reading the other book on the topic by one of the co-author.

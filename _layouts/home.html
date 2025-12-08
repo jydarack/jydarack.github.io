@@ -25,16 +25,14 @@ layout: base
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-        <span class="post-meta publiation-date">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <div class="post-meta book-authors">{{ post.book_author }}</div>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+        <a class="post-link" href="{{ post.url | relative_url }}">
+        {%- if post.couverture -%}
+          <img src="assets/img/covers/{{post.couverture}}">
         {%- endif -%}
+          <span class="post-meta publiation-date">{{ post.date | date: date_format }}</span>
+          <h3>{{ post.title | escape }}</h3>
+          <div class="post-meta book-authors">{{ post.book_author }}</div>
+        </a>
       </li>
       {%- endfor -%}
     </ul>
